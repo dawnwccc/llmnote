@@ -93,7 +93,7 @@ class BytePairEncoder:
         text = "".join(self.id_tokens[idx] for idx in ids[1:]).replace(self.ws_token, " ")
         return text
 
-    def init_state(self, text):
+    def init_state(self, content):
         # init corpus and word_count
         for line in content:
             # normalization
