@@ -1,7 +1,7 @@
 from datasets import load_dataset
 from tokenizer import BytesPairEncoderTrainer, BytesPairEncoder
 
-raw_datasets = load_dataset("code_search_net", "python", cache_dir="../../dataset")
+raw_datasets = load_dataset("code_search_net", "python", cache_dir="../../../dataset")
 
 # train
 # training_corpus = raw_datasets["train"][:100]["whole_func_string"]
