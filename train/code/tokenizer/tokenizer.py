@@ -10,7 +10,7 @@ def normalize(content: str) -> str:
     :param content: 待正则化文本
     :return: 正则化文本
     """
-    return re.sub(r"\s+", " ", content)
+    return re.sub(r" +", " ", content)
 
 
 def pre_tokenize(content: str) -> list:
@@ -157,6 +157,7 @@ class BytesPairEncoderTrainer:
         :param base_dir:
         :return: None
         """
+        print("start save vocab.json and merges.txt")
         vocab = {}
         vocab_file = os.path.join(base_dir, "vocab.json")
         merges_file = os.path.join(base_dir, "merges.txt")

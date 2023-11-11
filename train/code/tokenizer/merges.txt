@@ -1,1000 +1,11252 @@
+i n
 _ t
-_ i
-e r
 _ s
 o n
-a t
-e l
-o r
-a r
 r e
-_ f
-a l
-_ d
-i n
+a t
 _ a
-p e
-i t
+e r
+o r
+_ i
+e l
+a r
+_ d
 h e
-l e
-_ =
-m e
+a l
+) 
+
 _ c
-y pe
-_ p
-_ re
-_ o
-c e
-s e
-_ n
-s t
-c t
-_i n
-_t he
-el f
-_ "
-u r
-) :
-e d
-_ m
-_ b
 a m
+e s
+_ =
+_ f
+: 
+
+_ n
+e n
+_ in
+_ o
+s e
+t i
+_ p
+_t he
+_ re
+l e
+s t
+_ "
+_ m
 a n
-ur n
-t urn
-g e
-( )
-_d e
-ar t
-_ >
-elf .
-u e
-_ (
-t e
+e d
+u r
+e x
 _ l
-u n
-_re turn
-on n
-_ r
-i f
-" "
-u m
-i on
-_" ""
-_ v
-_i f
+el f
+_ b
+. 
+
+r o
+e t
+_ w
+_i s
+p e
+ur n
 in g
-k e
-_> >
-_>> >
-_de f
-o m
-_s elf.
-art it
 _t o
-i z
+c t
+u m
+c e
+a s
+e f
+_i f
+i t
+u l
+" "
+r a
+n d
+t urn
+p ar
+) :
+
+_ v
+_" ""
+elf .
+o l
+on e
+_o f
+_re turn
+am e
+al u
+o t
+_ :
+_d ef
+u n
+_ >
+_""" 
+
+_ #
+_s elf.
+N one
+y pe
+_ (
+ti on
+_s t
 _f or
 at a
-_i s
-T ype
-artit onn
-p ar
-_ w
-al l
-_ 1
-_ #
-_o f
-iz e
-m a
-on e
-_ e
-t s
-d d
-_t ype
-) )
-b j
-_ el
-n d
-( s
-) ,
-t r
-a s
-a ce
-u l
-o w
-_ R
-o t
+_> >
+_>> >
 i s
-i me
-al ue
+( s
 o d
-t er
-_ [
-_ 2
-c h
-or t
-v e
-_ T
-i l
-r a
-s .
-_ u
-artitonn s
-o c
-e r
-_n um
-) .
-D D
-_ :
-_t h
-n t
-t h
-am p
-v er
-_f ace
-_d ata
-_v er
-u t
-_ h
-_t ime
-ke y
-o n
-_a nd
-P artitonns
-( "
-_a s
-i m
-' ,
-t o
-i el
-_ S
-iel d
-_ver if
-N one
-_R DD
-( o
-_ ar
-_ +
-i r
-a me
-_n ot
-i st
-_s c
-a p
-_b e
 at e
-_o bj
-er r
-a d
-( d
-_c on
-at or
-par am
-i le
-_ key
-_: param
-( f
-m p
-_ me
-i g
-ct ion
-0 ,
-or y
-c k
-ize (
-_ %
-at h
-u ct
-s ,
-_r dd
-c o
-r r
-ul t
-a b
-_ 3
-an d
-m ory
-u c
-_ x
-a i
-ma ge
-r om
-B y
-y p
-(o bj
-r ue
-un c
-) ]
-i er
-tr uct
-(s elf
-p t
-_ -
-_f rom
-u p
-e s
-_l oc
-_m a
-_el if
-it h
-_c om
-_ le
-_ A
-V alue
-E rr
-Err or
-_el se
-an ce
-_ '
-all el
-uc ke
-o in
-p l
-e x
-t ype
-_sc .
-i al
-par allel
-parallel ize(
-u ce
-ucke ts
-_ k
-_ C
-_ or
-m s
-amp le
-_u se
-_ None
-il l
-_me mory
-d a
-_sc. parallelize(
-ig h
-as s
+
+ 
+
+_ 1
+u t
+_ T
 _ j
-" ,
-_ 0
-yp e
-at ion
-_i mage
-l o
-o un
-ab le
-_r ai
-_rai se
-1 ,
-_i ter
-_p artitonn
-_ .
-_ g
-_ D
-ma p
-ge t
-am b
-_m od
-_ <
-_v alue
-r ow
-amb da
-z one
-(self ,
-_w ith
-_s e
-_e x
-_else :
-ce pt
-_ 5
-_th is
-_n e
-_c l
-_ y
-_a n
-ort ed
-_verif ier
-_= =
-st ance
-_T rue
-ial ize
-er ge
-. s
-r t
-s s
-_ all
-_ 4
-_p ath
-od e
-o o
-n (
-a c
-_con ver
-d ata
-_time zone
-_( '
-ra y
-T ype
-Type ()
-_is in
-t a
-a ch
-r o
-] )
-_isin stance
-e me
-_sc.parallelize( [
-. .
-_ I
-_re s
-r y
-ialize r
-_mod el
-_ on
-an ge
-it e
-at ch
-d uce
-_d i
-_p a
-] ,
-e y
-_verif y
-_iter ator
-" )
-_h as
-a ve
-_n ame
-a ult
-i n
-b in
-s (
-l d
-_m in
-te r
-_use d
-_num Partitonns
-_e ach
-b er
-h o
-t (
-e ct
-_b y
-_i te
-_l im
-_lim it
-r dd
-_el eme
-it er
-_a dd
-g g
-_2 ,
+.
+ 
+
+u p
 i c
-i ve
-er e
-( n
-le d
-_b atch
-_ Value
-_Value Error
-_s tr
-par k
-ul l
-le ct
-l ambda
-_b uckets
-s er
-_ get
-_a c
-s S
-p er
-_num ber
-i on
-s )
-e n
-_f un
-_fun ction
-st r
-t .
-n n
-_S truct
-s :
-_w e
-_f ile
-_R e
-_i t
-_l ist
-_ E
-_w h
-Type (
-( a
-_ite ms
-_s orted
-a v
-st amp
-e ,
-F al
-_r ange
-t )
-_o ut
-ar y
-g .
-By te
-_f ield
-_s er
-(s elf.
-_ *
-_rdd .
-map Partitonns
-_. ..
-all y
-oun d
+_ '
+_ [
+k e
+o w
+ul t
+_ g
+i m
+)
+ 
+
+_ `
+t h
+_ None
+_n ot
+s i
+_v alu
+_ or
+) ,
+_ u
+e m
+_t h
+l l
+m a
+en t
+un c
+_ S
+_a nd
+g e
+a b
+s .
+' ,
+_ R
+v e
+_b e
+a d
+_ el
 i d
-_obj ect
-_ P
-on ver
-_1 0
-up le
-_ma x
-n ts
-oin ts
-l lect
-i e
-. d
-_o s.
-_ one
-_def ault
-_in to
-Fal se
-t ime
-_eleme nts
-_m erge
-K ey
-_th at
-l y
-. f
-_None :
-_p re
-_u s
-e )
-_ M
+i st
+i g
+_ 2
+on n
+o c
+o m
+or t
+al l
+i f
+s ,
+_ 0
+t er
+_ ex
+_ I
+c h
+par am
+_c on
+e ct
+b j
+a p
+p l
+i z
+_ -
+q u
+it h
+] 
+
+at i
+_in d
+_ h
+_a s
+par k
+( "
+. s
+t r
+_ r
+_: param
+_s c
+, 
+
 . c
-_Re turn
-i o
-_di ct
-ar se
-_i mp
-_3 ,
-] ).
-_e n
-_loc ation
-[ 0
-( c
-igh t
-_us ing
-_res ult
-to p
-_ 6
-a st
-ata Type
-( '
-_x :
-_ma ke
-_loc al
-2 ,
-p ill
-co llect
-F ile
-( lambda
-re e
-_cl ass
-i ed
-oo p
-p ath
-_ar e
-i p
-)) )
-( k
-un k
-_le n(
-m o
-_ z
-_ H
-he ck
-0 0
-om bin
-_+ =
-_self. mapPartitonns
-ra ction
-e st
-_s truct
-in g
-t y
-n ame
-_ar ray
-_T he
-_c an
-_ _
-_ Type
-_Type Error
+_f i
+_d ata
+) 
+
+ro m
+_st r
+o n
+t e
+(s elf
+ol um
+olum n
+i n
+ex t
+ra y
+_p ar
+a ult
+_ .
+_ D
+_a r
+ke y
+_ e
+u e
+a v
+v er
+_ +
+_n um
+r or
+_ C
+_f rom
+P ar
+m e
+an ce
+ti t
+_n ame
+an d
+t o
+. 0
+_i t
+t a
+d d
+_n e
+as s
+_ind ex
+en d
+iz e
+_w ith
+ati on
+_ A
+r ame
+o p
+_o bj
+_a n
+( )
+se d
+_s e
+_re s
+_valu e
+l o
+_l en
+tit onn
+(self ,
+s 
+
+o in
+E r
+_f unc
+_ *
+_el se
+l i
+a y
+( )
+
+_valu es
+_` `
+i se
+Er ror
+st ance
+od el
+F rame
+c l
+at h
+d f
 av a
-_imp ort
-t z
-_s t
-collect ()
-p u
-F unc
-er o
-b uckets
-ra in
-_s pe
-d er
-l ass
-r e
-gg re
-p re
-p y
-_c heck
-oints [
-_1 ,
-_ _make
-__make _type
-__make_type _verifier
-_ar row
-_p and
-_pand as
-_ /
-By Key
-_1 ),
-ad oop
-is k
-if ied
-re turn
-_ L
-i ck
+in d
+- -
+ro up
+- -
+t ype
+( '
+h t
+re s
+c k
+r i
+_d f
+_l ist
+_o p
+nd ex
+_t ype
+si on
+m at
+ro w
+D D
+ar g
+_s et
+_ ra
+alu e
+er i
+r ue
+_res ult
+p le
+_ key
+_. .
+_is in
+= None
+" ,
+se t
+ig ht
+p ort
+_= =
+p ut
+_m a
+_ 3
+. f
+_def ault
+-- -
+_else :
+
+) )
+
+_isin stance
+( [
+_i d
+_w e
+_ra ise
+i ll
+es t
+_th is
+_ %
+] ,
+e c
+ar t
+T ype
+_s h
+_c l
+_ne w
+` `
+_ on
+t ext
+a ge
+_str ing
+_I f
+_ P
+c he
+l y
+_ x
+_ F
+_c olumn
+k en
+n ame
+ata Frame
+i l
+re d
+) .
+_l o
+( d
+_ N
+_p ro
+_a ll
+p t
+_ le
+i r
+_a re
+y p
+ab el
+in g
+ab le
+et urn
+: `
+C on
+al se
+_ _
+-- ---
+a r
+es s
+_i m
+_None :
+
+_func tion
+a ce
+_th at
+i ct
+_u s
+p .
+_t im
+_R DD
+1 ,
+_ k
+o u
 _w ill
-( 0,
+q l
+----- -
+v el
+_T he
+_m odel
+_ X
+) )
+_c om
+_g et
+_ V
+_ E
+_isinstance (
+pe c
+re am
+_ar ray
+_R eturn
+_b y
+am ple
+e p
+c o
+. d
+_p ath
+n t
+as k
+s (
+re ate
+am es
+ti me
+_to ken
+_t r
+i v
+cl ass
+_X |
+_ M
+. g
+] )
+
+_- ------
+p y
+_v er
+u b
+o ul
+Par titonn
+oul d
+_ at
+s [
+a ve
+a ch
+ect or
+_T rue
+i le
+_fi le
+_d type
+_ {
+u st
+s )
+( l
+0 0
+s park
+in e
+_w h
+_obj ect
+or d
+_a x
+_c an
+th er
+od e
+or m
+st r
+and as
+_par am
+ow (
+_g roup
+b er
+_a c
+_ s
+class :`
+_.. .
+_m et
+v alu
+_ |
+if i
+_u sed
+_j ava
+o re
+et er
+Con text
+- -
+-- -
+ra in
+el d
+_len (
+_s pec
+an s
+o r
+at or
+_sc he
+_o ther
+g th
+_S park
+r it
+u re
+a st
+_s ort
+_ en
+t (
+ar y
+_im port
+_ y
+_ un
+_: class:`
+oc k
+_ <
+_n p.
+g er
+le ct
+_ma x
+_lo g
+e ,
+at ed
+d a
 _w he
-s ample
+_l abel
+0 ,
+_ W
+_el if
+_sche ma
+th on
+_ end
+_st art
+u ct
+e r
+ul l
+_ L
+ar ray
+_in put
+_p o
+o bj
+_op tion
+I ndex
+_p y
+_e ach
+ef ault
+_c ol
+= '
+_V alue
+Par am
+_ex ce
+_o ut
+a pe
+. _j
+0 1
+=None ,
+' )
+d e
+v al
+(s elf.
+_Value Error
+( 
+
+al ize
+ar r
+_ 5
+es 
+
+S t
+_T h
+f o
+_n ames
+_d ict
+ti ve
+an ge
+_m in
+_h as
+_D ataFrame
+( f
+_con ver
+_c o
+v m
+_c h
+_p re
+c ol
+w arg
+_a l
+_ B
+_ row
+_sh ould
+in n
+6 4
+ul ti
+am pl
+op y
+p u
+at ch
+a se
+_d o
+_d ate
+p p
+" )
+
+in t
+ind ow
+s =
+_E x
+_ he
+oin t
+_s park
+2 ,
+_r dd
+_re c
+el l
+_ax is
+ap p
+s )
+
+n a
+_self. _j
+or r
+:
+ 
+
+_le vel
+valu es
+. j
+] 
+
+
+or mat
+p r
+he ck
+_ G
+_s p
+_m ask
+i b
+c on
+. _
+.s ql
+_par titonn
+_l oc
+_u se
+b da
+h od
+p tion
+yp es
+_Th is
+ifi ed
+_ J
+r dd
+)
+ )
+
+[ 0
+s :
+at es
+_tim e
+am bda
+_len gth
+er r
+_c all
+: :
+_index er
+lo at
+s ):
+
+a ck
+_num ber
+. t
+y thon
+qu en
+s on
+_ U
+_T ype
+m ent
+c tion
+i as
+( p
+f orm
+pl ace
+f i
+re nt
+I n
+_d oc
+B y
+e x
+D ataFrame
+_ 4
+| 
+
+i on
+_met hod
+_* *
+_[ R
+( n
+f t
+d er
+y :
+
+un t
+up le
+li ce
+i ti
+ic h
+d efault
+_F alse
+_in t
+ma p
+a ta
+spark .sql
+ot h
+l ock
+_ar g
+" 
+
+_None |
+_for mat
+at tr
+_in ter
+im it
+_v al
+u '
+s er
+_spec ified
+_ one
+ar k
+ent s
+_c heck
+o ut
+- 0
+_i ter
+_0 .
+ri x
+eri es
+D ata
+_el em
+ic k
+- 1
+=None ):
+
+and om
+_2 ,
+_ qu
+_wh ich
+_exce pt
+_Spark Context
+iv en
+s :
+
+all el
+m in
+ic es
+eri alize
+.0 ,
+f er
+_Type Error
+st art
+ta in
+_m ust
+che ma
+_se ed
+_c opy
+_s o
+_t ext
+_conver t
+e l
+rit e
+. par
+_po si
+F unc
+_h ave
+_C olumn
+at rix
+_I ndex
+or y
+id e
+" )
+tr ing
+e at
+s c
+. w
+_ Param
+_the 
+
+_None 
+
+= u'
+_p a
+( x
+_we ight
+' )
+
+_( default
+a l
+a che
+St ream
+_g iven
+_tr y:
+
+v alue
+_it em
+2 01
+( j
+_[R ow(
+_b o
+_2 .
+g n
+T rue
+if y
+_con f
+re turn
+_ O
+s .
+
+)
+
+ 
+
+.c ol
+._j vm
+en er
+M odel
+_ em
+d .
+_p andas
+_f re
+up port
+_in to
+_ H
+o b
+F alse
+_num Partitonn
+_v ector
+_con tain
+_n o
+( m
+_on ly
+_ac tive
+erialize r
+pu t
+el ect
+( t
+l es
+ou nd
+am p
+` .
+
+
+i p
+n g
+_ up
+_com p
+e y
+] )
++ 
+
+pl it
+_whe n
+_% s
+u ce
+app end
+c es
+ar n
+_True 
+
+_ver sion
+_posi tion
+_m ap
+_a dd
+' :
+_s ub
+te r
+oth er
+_------- ---
+_cl ass
+N ame
+_I n
+) 
+
+)
+ 
+
+_an y
+(s c
+k warg
+_id x
+_Param eter
+_n ull
+(d ata
+_l imit
+t ra
+a t
+' s
+_or der
+( c
+_b atch
+re ad
+s .
+
+
+ad d
+est amp
+_Parameter s
+
+re e
+. m
+_c reate
+A r
+r st
+_w indow
+_---------- 
+
+l ow
+f unc
+p o
+_f loat
+allel ize
+_ma ke
+f f
+p ro
+p er
+_b ut
+s o
+_" 
+
+_s elf
+_fi rst
+_: return
+.j oin
+.f ormat
+_t uple
+g et
+it em
+), 
+
+a ct
+R DD
+re g
+li ke
+_ValueError ("
+_fi eld
+g g
+.col lect
+. in
+.par allelize
+_con t
+( obj
+_** kwarg
+p ath
+g or
+le d
+.s elect
+all y
+_{ }
+_us ing
+_r ange
+c ess
+_[ '
+_1 ,
+.g et
+b le
+= False
+_self. s
+a x
+h ape
+_"""
+ 
+
+res sion
+ur rent
+te ger
+_SparkContext .
+.c reate
+_not e
+_sc .parallelize
+_rec ord
+_m e
+ate time
+as sed
+_n on
+t 
+
 _s ize
 N on
-6 4
-S t
-ac he
-ite ms
-n al
-( iter
-_y ield
-ct x
-_f unc
-_f raction
-_C {
-_re duce
-O p
-a l
-g n
-_spe c
-_ un
-p a
-at t
-ex t
-5 ,
-_ G
-_conver t
-_ O
-at ed
-e .
-_p ro
-_p arse
-_d o
-th on
-_% s
-_n ull
-_isinstance (d
-_c re
-T rue
-_ne w
-_type (d
-i es
-_used _memory
-l f
-_j rdd
-me nt
-_RDD .
-i t
-pl it
-P a
-_s ample
-_t rain
-= None
-_k nn
-_d ir
-_s u
-e f
-_: return
-path .
-e (
-' )
-_T h
-_t uple
-_ac c
-( i
-= Non
-_ _parse
-_ `
-ie ld
-_m ap
-I G
-_c o
-_ s
-_s h
-(obj ,
-(obj )
-( [
-se t
-_s pill
-Byte sS
-BytesS p
-BytesSp il
-BytesSpil led
-re am
-err ializer
-( x
-_self. ctx
-re duce
-ggre g
-d i
-_spec ified
-_i m
-_n o
-or e
-um p
-u st
-_u p
-a ck
-_time s
-_ValueError ("
-_ex cept
-_t ry
-v alue
-_%s "
-Type ):
-c on
-. n
-ul d
-_time stamp
-_t z
-s. is
-_self. p
-R DD
-ed uce
-it ion
-_b ound
-_I f
-_face _location
-g er
-1 ]
-_ U
-' s
-_whe n
-_ to
-o u
-m all
-ar k
-s ion
-a ge
-str ing
-tr ing
-he ma
-F ield
-r ray
-O R
-_c all
-_l ast
-(obj ):
-y thon
-__make_type_verifier (
-ion on
-a ',
-ombin er
-pl ace
-i th
-_has h
-ma x
-. 0
-_o per
-artit io
-artitio err
-_4 ,
-_p art
-or r
-_ al
-pe nd
-_ at
-_c h
-_b ot
-i b
-_or der
-_a v
-_l and
-_land m
-_landm ark
-' :
-q u
-() )
-_in f
-_ N
-_data Type
-Type :
-. items
-s [
-(f ield
-_an y
-_l ambda
-_m s
-_ms g
-e w
-ter nal
-_arrow _type
-_s ho
-_sho uld
-_type s.is
-_d ate
-C onver
-R e
-_m er
-_mer g
-_2 ),
-_c oun
-S ize
-pu t
-C ode
-ero Value
-up p
-_:return :
-_os. path.
-O N
-o ad
-lo se
-t om
-an n
-_up sample
-i ch
-" :
-__parse _data
-v el
-te ger
-_sc hema
-_T r
-_True )
-_ False
-at te
-_Th is
-lo at
-_ err
-_type(d t)
-_s park
-_spark _type
-_the n
-_date time
-oc k
-_2 0
-C ombiner
-_iterator :
-_get _used_memory
-_get_used_memory ()
-_s ort
-_self.ctx .
-W ith
-_sc.parallelize([ 1,
-place ment
-_se ed
-_to t
-_tot al
-um Partitonns
-_partitonn Func
-P art
-p th
-_z eroValue
-_ d
-_s ave
-b o
-if ier
-co gn
-n ow
-_p er
-a in
-ive n
-_c ur
-re nt
-_im g
-_1 :
-in d
-_en c
-_enc od
-ap pend
-_cl f
-_ F
-ed .
-c he
-a w
-_the m
-pe n
-_b ut
-a il
-) ,
-_ne ed
-e t
-_s _
-_s_ string
-st e
-_I n
-_ 8
-q l
-_try :
-Type() ,
-_TypeError ("
-( row
-. _
-_k ,
-ataType ,
-= True
-J ava
-_value s
-_S tring
-s (obj)
-- 0
-_s elf
+e )
+
+_sort ed
+df .
+unc tion
+Data Frame
+i eld
+_st ate
+g .
+_set ,
+_- 1
 um m
-(self ):
-ss ion
-s ar
-j oin
-_> =
-(iter ator
-_key =
-b ',
-_[ ('
-I nd
-Ind ex
-o g
-Pa rt
-R educe
-_se q
-T o
-e igh
-- n
-now n
-s o
-_( o
-pt ion
-im g
-' t
-_th an
-_encod ing
-iz ed
-_m ust
-_E x
-c a
-[0 ]
-ul ts
-ra w
-_bot tom
-c ode
-_re ct
-a ke
-e mp
-_for m
-_r aw
-_s mall
-_wh ich
-=Non e,
-( p
-_[ p
-_[p oints[
-_str ing
-lass :
-3 ,
-(a ,
-( 1
-_Tr ace
-_Trace b
-_Traceb ack
-_( mo
-_(mo st
-_re ce
-_rece nt
-_last ):
-.. .
-v m
-vm .
-f ield
-_d if
-_dif f
-( ):
-_A rray
-_cre ate
-_isinstance(d ataType,
-)] )
-_null able
-a ",
-me e
-or k
-_p y
-( at
-p ut
-S er
-im um
-_datetime 64
-_d type
-umm ary
-f f
-_com b
-_pa ir
-_f ir
-_fir st
-r am
-th er
-rt ionon
-). collect()
-amp l
-_5 ,
-_de pth
-Conver ter
-Code c
-_ n
-_re cogn
-ta in
-ption al
+e a
+er o
+_s ame
+: 
+
+) ]
+
+= True
+_all ow
+_(default :
+er ror
+_l ine
+.create DataFrame
 _[ ]
-): :
-or m
-th ,
-le e
-_knn _clf
-_p ick
-_face s
-_E X
-I ON
-at che
-d ,
-_res ults
-onver t
-_le f
+
+_ z
+_m em
+arn ing
+_ne ed
+ma x
+-0 1
+_or ig
+iti al
+[ '
+_value ,
+_us es
+_sp ark
+( 1
+\ 
+
+_s ing
+_b lock
+_s l
+qu e
+em p
+_token s
+_th an
+_d ist
+in al
+= 1
+f e
+K ey
+ti c
+F ile
+_p assed
+_1 
+
+(l ambda
+_m ulti
+_g ener
+_Return s
+
+_------- 
+
+_f eat
+( r
+um ent
+.f unction
+_t rain
+e w
+_0 :
+
+_active _spark
+_active_spark _c
+_J ava
+d ata
+fi x
+_a p
+ampl es
+_out put
+_ex p
+_w ra
+_val id
+en se
+ma ge
+m o
+e ad
+_SparkContext. _active_spark_c
+n ot
+.c o
+n um
+ur ation
+_re g
+DataFrame `
+er y
+t rain
+
+
+ 
+
+ind ex
+_1 .0
+e ight
+as es
+tr uct
+_in st
+_SparkContext._active_spark_c te
+_note ::
+- -
+_ex ample
+_F or
+b y
+_SparkContext._active_spark_cte ex
+on g
+_the n
+_cl s.
+- +
+_:return :
+_ !
+_! =
+O N
+pl y
+p oint
+s g
+_p d.
+_sing le
+_( '
+_se quen
+_conf ig
+_of f
+_p r
+. p
+_P ython
+' 
+
+00 0
+g roup
+_ch ar
+n s
+_df .select
+ic al
+_s upport
+_return s
+s[ 0
+_n d
+o le
+_+ =
+re ct
+f ,
+u le
+ro p
+ser t
+_tim estamp
+w ay
+_D Stream
+_spark .createDataFrame
+it y
+ick le
+pt y
+_ to
+] ,
+
+.g .
+es c
+e e
+_l i
+i que
+ate gor
+val id
+at onn
+_lo ad
+t ed
+ter r
+z one
+_R ow(
+(self ):
+
+_data set
+i es
+( se
+arg et
+_ex tra
+V ector
+par se
+_N um
+' t
+) )
+
+
+_d ec
+( )
+
+
+_TypeError ("
+_ \
+
+_u df
+im um
+V alue
+_s ample
+_t a
+in es
+_SparkContext._active_spark_cteex t
+
+ans form
+s ure
+a c
+( ),
+[0 ]
+Ar ray
+) .
+
+R e
+_r andom
+_re d
+od es
+_log ger
+[ 1
+( v
+_as sert
+ter n
+er ge
+_1 .
+_st ream
+_co unt
+ati ve
+_us er
+- d
+f ile
+ar d
+_o ver
+er ic
+in ed
+A lice
+_in itial
+el ta
+_off set
+ulti Index
+s s
+cl u
+_t ypes
+. S
+() )
+
+re c
+_time zone
+_column s
+_elem ents
+_3 ,
+_k warg
+e n
+a g
+or age
+_d ep
+.0 
+
+C l
+_ex ist
+C ol
+ol id
+_%s "
+a u
+.collect ()
+
+\ n
+_c or
+ing 
+
+) ):
+
+) 
+
+
+ic tion
+_a v
+_l ast
+ot e
+M ap
+_loc al
+` 
+
+s si
+_sc.parallelize ([
++ 
+
+-- +
+
+D F
+eri od
+_C on
+. r
+_param eter
+_at tr
+er ve
+_j son
+_:class:` DataFrame`
+._jvm .function
+olid ay
+. is
+_i mage
+_c urrent
+_en c
+_p red
+_ 6
+. to
+' ]
+yp e
+ed d
+_in stance
+m p
+S E
+_li ke
+_bo ol
+_+ ---
+_p er
+" .format
+_le ft
+_b u
+_Return s
+_c ase
+_sc al
+_A r
+er (
+_fre q
+an el
+ed 
+
 t ,
-_l oad
+z e
+en sion
+3 ,
+_in fer
+_pa ir
+_self. _s
+_s y
+a N
+_ @
+- +
+
+t x
+ol d
+_re pr
+_sh ape
+im e
+A R
+b u
+Partitonn s
+s elf.
+_se q
+w o
+al ias
+_t able
+._jvm.function s.
+_logger .in
+_logger.in fo
+_f ace
+_o s.
+er s
+ce ption
+_m ode
+` ,
+_m ay
+l en
+_date time
+_0 
+
+en ce
+_m at
+_m od
+5 ,
+) ,
+_iter ator
+_> =
+ig n
+ra ction
+in put
+_t arget
+v ed
+M atrix
+_mem ory
+i ve
+_a b
+s, 
+
+w ise
+_i gn
+ar i
+s ing
+- like
+= 0
+iz ed
+_c lo
+li b
+_repr es
+l e
+g. ap
+arr k
+_x :
+_do es
+_' 201
+_option al
+_' b
+_row s
+train ed
+_M ultiIndex
+_s ave
+_b ound
+an y
+_r ight
+str uct
+or g.ap
+_d if
+am ed
+_re qu
+u res
+_t wo
+_ind ices
+_id s
+_wra pp
+_c tx
+o se
+_d i
+( o
+lo ad
+_non -
+_num py
+( cl
+a ',
+_ /
+_sequen ce
+es sion
+abel ed
+abeled P
+( df
+_s lice
+_dtype =
+_enc od
+_return ed
+" )
+
+
+_1 0
+_e qu
+est :
+s. append
+_py spark.sql
+umm ary
+ib ut
+_op er
+' ),
+con f
+- 
+
+ur ce
+g h
+_em pty
+_p l
+it e
+_do ct
+_doct est:
+Q L
+"" "
+
+.t ypes
+_W he
+_p ass
+_exce ption
+er ,
+( ell
+,
+ 
+
+ases tring
+ay er
+.s hape
+_re ad
+` .
+
+(se l
+L e
+_set s
+). alias
+i nd
+_m atrix
+e ar
+_char act
+_logger.info ("
+inn g
+i o
+o g
+a il
+_1 00
+org.ap ache
+ver ter
+_ _make
+_b in
+_multi ple
+_un ique
+_me an
+ad o
+_t er
+d ate
+ate way
+w rite
+_log it
+_h oliday
+ro u
+_s in
+pe e
+_d rop
+_num eric
+_get attr
+_p res
+_c ache
+et s
+u m
+By Key
+. map
+.c co
+' ,
+_qu ery
+_1 |
+_em b
+_------- -
+
+_. .
+
+
+_h ow
+_in t(
+read y
+b ack
+_is 
+
+. n
+at t
+s um
+_b et
+ed ::
+end ing
+gg reg
+_N aN
+res ult
+_c ategor
+D uration
+`` ,
+_s u
+_label s
+_ac c
+_pro v
+_W e
+_m sg
+ce pt
+_requ ir
+-01 -
+_a 
+
+r y
+l ic
+_False 
+
+_ error
+con d
+_l ong
+_b asestring
+_L abeledP
+_spark.createDataFrame ([
+j or
+_t f
+or ch
+l ist
+_( "
+( 0,
+_p oint
+ole an
+_has attr
+_ver ify
+i ]
+put e
+_and 
+
+i x
+_contain ing
+ist er
+R ow
+_3 .
+qu et
+_S eries
+_d ir
+(l en
+_al ready
+t y
+() )
+_he ap
+J ava
+_pro b
+e d
+I P
+_f ol
+a sed
+py spark.sql
+_he ad
+_c odes
+oin ter
+_feat ure
+_inst ead
+. name
+_elem ent
+au se
+_self. _
+le vel
+1 ',
+_red uce
+M L
+_Num ber
+_p eriod
+ql _ctx
+S K
+p andas
+orr up
+m ask
+_encod ing
+o ad
+an g
+_whe re
+" :
+_c al
+a ,
+str ing
+R E
+om e
+[ :
+_arg ument
+( b
+co unt
+lect )
+
+
+
+ado op
+_+--- +
+is tic
+n ull
+' ])
+
+as si
+_S truct
+_Ex ception
+ith er
+_0 ,
+t s
+I N
+_l ambda
+0 :
+AR K
+_c re
+le e
+_check point
+_w arning
+pe ct
+_re place
+_**kwarg s):
+
+_b ias
+_D atetime
+( k
+_the m
+_( e
+x ,
+_item s
+(d t
+ti m
+d type
+ad ata
+_cls. _
+_wh ile
+st em
+( rdd
+_orig inal
+_f raction
+.g roup
+_self. c
+C olumn
+_ j
+_j c
+quen c
+_fi les
+f .
+a in
+_ 8
+_obj .
+d t
+ar row
+. u
+_of 
+
+a te
+( ):
+
+rec ated
+_S ee
+] ))
+
+ut o
+_S t
+( values
+en ti
+_string ,
+d ay
+_1 :
+
+( name
+si ze
+_y ou
+at che
+Non e,
+v al
+E x
+. st
+( key
+ti l
+w e
+_n ext
+r e
+f ter
+._ j
+c at
+_to _java
+( col
+(data ,
+oc ab
+ma t
+q a
+_en sure
+_m is
+ation s
+_repres ent
+o k
+' :
+
+org.apache .s
+s )
+
+
+ef ined
+P ARK
+_m erge
+_s plit
+z ero
+_inter p
+_fol low
+_a pp
+func :`
+_""" R
+' )
+
+
+_m ore
+_name ,
+. e
+_al so
+:
+ :
+
+_d t
+na me
+(cl s,
+S p
+_a fter
+S ize
+ar t
+c ending
+_[ 1
+=u' Alice
+S ession
+quenc y
+or d
+iz er
+-- --
+Q u
+s v
+_w as
+_cont in
+_pr int
+_pred iction
+p ,
+_fi ll
+le ft
+._jvm .
+T pee
+P y
+_whe terr
+_n orm
+) .
+
+
+_w rit
+a m
+_prov id
+.cco lect)
+
+
+
+ex x
+_ind ic
+Cl ass
+') ]
+
+_st age
+_: func:`
+(sc ,
+- -
+_V ector
+ust er
+T ime
+_self.s ql_ctx
+_charact er
+S chema
+nd array
+SE P
+_ax es
+_it s
+_so urce
+_str uct
+_weight s
+_path ,
+um p
+_z ip
+_pro cess
+_in teger
+( 1,
+)
+ )
+
+
+_s eries
+_met adata
+_{ '
+_data ,
+[ "
+1 9
+. re
+. .
+_fi l
+_st ep
+_i ,
+Con verter
+S e
+me an
+p on
+st ream
+_+ SK
+_+SK IP
+_g ateway
+_os. path
+th ,
+b in
+E D
+= "
+_ t
+_bo olean
+org.apache.s arrk
+_ver ifi
+en gth
+_(e .g.
+v i
+par titonn
+i t
+_y ield
+orage Le
+_self. map
+f il
+_P y
+re q
+. ,
+to ken
+ed elta
+_Datetime Index
+_d d
+_di rect
+_{} ".format
+en n
+res h
+un k
+_Con ver
+_support ed
+_b ack
+c olumn
+_e valu
+_attr ibut
+_key s
+4 ,
+_pre fix
+( w
+_ne g
+(self. _j
+up lic
+de red
+T o
+n ce
+_version add
+- -+
+_w ord
+s ub
+s w
+ampl es
+
+s. ap
+_state _dict
+_l ayer
+_dtype ='
+_the re
+_ K
+_e ither
+_s im
+_par se
+I G
+_R ow
+_be c
+_t z
+_ _get
+l d
+= 2
+lo b
+it er
+u n
+( in
+_s ock
+([ '
+le l
+_d es
+_a ggreg
+ti mat
+_sy stem
+( g
+_py spark
+_at t
+_+SKIP 
+
+_'201 8
+_c ode
+_train ing
+_represent atonn
+_Struct Type
+), ,
+_h and
+oc al
+i e
+s p
+b ',
+s h
+_in fo
+ta ke
+ampl ing
+i ent
+', ,
+) ]
+
+
+_u '
+_v ari
+is m
+_isinstance (s
+ef f
+_exp ression
+um ents
+_basestring ):
+
+il d
+s or
+_S parse
+_"""R eturn
+ti es
+_P andas
+S ON
+_scal ar
+' ],
+(sc ._jvm.functions.
+_no qa
+erve r
+_Ex amples
+
+_k n
+op tion
+_op en
+_< =
+( 0
+m all
+) ]
+/ /
+T ype
+_int ,
+
+ 
+
+( at
+2 3
+_ar r
+_ )
+
+_# 
+
+_bec ause
+_a ge
+a red
+tit i
+si st
+in ing
+I ter
+_ ent
+_A l
+_versionadd ed::
+_categor ical
+_j oin
+_`` f
+_pro j
+_Column (sc._jvm.functions.
+_con text
+_seq _length
+ow n
+. append
+il ar
+_d e
+c )
+
+im ension
+im al
+_dif fe
+_m atch
+we en
+a me
+ssi ble
+Non e
+_provid ed
+_0 .0
+_z ero
+_t emp
+_valid ate
+f fix
+_:class:` pyspark.sql
+`` .
+ec ord
+g ment
+_noqa 
+
+orrup t
+_ar ch
+_pre trained
+_nd im
+s e
+_d is
+_C reate
+o ur
+_mod ule
+_to p
+' ):
+
+n p.
+( value
+a ",
+name ,
+3 2
+_ar row
+_in n
+_s ome
+_b ef
+_bef ore
+( *
+_4 ,
+_as cending
+_None ,
+lo g
+( _to
+co l
+ML lib
+_feat ures
+_fre quency
+timat or
+_inter val
+, 
+
+_cl s
+_f rame
+_ex amples
+S V
+_ like
+_n a
+ke n
+s[0 ]
+. b
+a re
+amed t
+U n
+am me
+tern al
+_w or
+_Ar row
+o w
+h ow
+O D
+_self. _get
+_d esc
+_1 ),
+_ 7
+an t
+he ap
+_b ased
+_en um
+o red
+m et
+MLlib Func
+ll ib
+_in it
+_m on
+d atetime
+_contain s
+_f ind
+resh old
+c )
+_in clu
+t p
+L E
+% s
+ri p
+] )
+
+
+_w rite
+_s erializer
+_partitonn s
+P ython
+orageLe vel
+_ap ply
+_warning s.
+w ar
+_s amples
+d ,
+_numPartitonn s
+A s
+=None ,
+
+_file ,
+_@ param
+_enum er
+( df.
+_call MLlibFunc
+_values 
+
+b ase
+_S QL
+_:class:`pyspark.sql .types
+).alias ('
+y ear
+_d ates
+_return Type
+_to k
+_s k
+_b est
+r ight
+- 8
+_nd array
+_A n
+. item
+_ _.
+() .
+_c ould
+_to 
+
+d ing
+on on
+( i
+el et
+_ign ore
+ic ode
+_oper ation
+_[ 1,
+(x ,
+_dep recated
+red uce
+_ta ke
+at er
+_r un
+)) )
+o l
+_se cond
+_ap pl
+_bet ween
+_or 
+
+_enumer ate
+_value 
+
+_tr ansform
+b e
+-- ---
+sc ,
+_n p
+_J SON
+_2 |
+', ',
+re nce
+R ecord
+R O
+_sp an
+nd im
+i tion
+.join (
+r t
+_dist ance
+_Conver t
+to p
+` .
+s ql
+s t
+_N ote
+int 64
+_s ql
+si ve
+id d
+c re
+) ],
+_numPartitonn s=
+( other
+c om
+_he re
+_gener ate
+O r
+_H adoop
+_comp ression
+ab les
+' ]
+
+T r
+O f
+_ _to_java
+B ob
+( start
+_2 .0
+_"""Return s
+all ow
+iz atonn
+_e p
+ide Duration
+_Al so
+_0. 2
+_0 0:
+_in valid
+s.ap pe
+s.appe nd
+_ter min
+_sc ore
+_contin ue
+n 't
+op en
+T F
+_l ib
+_sin ce
+_equ al
+S tring
+i al
+. a
+obj ,
+__ ,
+_k ,
+df ,
+_pro per
+lob al
+. ex
+_G roup
+E R
+_has h
+_ es
+M E
+v es
+W ith
+_sub set
+_R andom
+F or
+_s ampling
+_self. get
+.w rite
+at tern
+i ,
+_interp ol
+o f
+} ,
+_T o
+_[ "
+-- -
+P er
+oin t(
+_v ocab
+ir st
+_self.sql_ctx )
+. values
+s ort
+_D ense
+ati o
+-d efined
+_[ SEP
+_p anel
+_A dd
+C h
+_L oad
+red ict
+_result ing
+at ing
+f ormat
+ra ce
+.d ata
+([ 1,
+_g ot
+L ength
+) :
+
+_Whe n
+_None )
+
+_spec ify
+_s ummary
+_com pute
+ke ep
+N um
+_e v
+_C {
+V al
+le ction
+c ,
+_st at
+_app ro
+_Column (j
+=u' Bob
+M e
+.m llib
+arg s,
+ul ar
+_ _java
+iv al
+ival ent
+po s
+9 7
+_user -defined
+conf ig
+_p ointer
+_se gment
+_list _like
+ic ation
+p a
+_loc ation
+_s up
+s ),
+.c om
+_key ,
+_S tring
+_wor k
+age =
+l .
+re r
+u ff
+C om
+(p a
+lo se
+_be 
+
+a k
+si gn
+. un
+_[ ('
+_( 2,
+Partitonn s(
+pect ed
+_ 9
+it t
+e ver
+_bu ck
+A P
+m on
+_arg uments
+w ord
+an k
+_callMLlibFunc ("
+_doc ument
+In fo
+_- >
+_Sparse Vector
+_reg ister
+um n
+_ ro
+j ava
+_bool ,
+_res ol
+_j av
+L S
+ft max
+ig h
+_print ("
+)
+
+ 
+
+.s plit
+on 't
+ti on
+ec tion
+_h t
+- s
+teger Type
+mo st
+w ard
+_diffe rent
+_datetime 64
+_be h
+2 
+
+an not
+z ip
+_I t
+_cal led
+_po ssible
+( ex
+(x )
+_self. is
+_st op
+Re place
+in t(
+)
+ t
+_in 
+
+i ed
+1 0
+( st
+vm .
+_tr ans
+_out pu
+_dist ri
+_a li
+_ValueError ('
+iti on
+- -
+tr ansform
+re es
+. """
+
+- 2
+re place
+_cl uster
+.w eight
+= [
+=u'Alice ',
+an ti
+re ction
+l abel
+if t
+_n s
+Param Map
+_con struct
+_group by
+_ esc
+_axis =
+_o b
+_a ut
+)
+ 
+
+
+a ces
+_p ick
+_re mo
+.c on
+_he ight
+an n
+_" b
+_e .g.
+s ()
+obj ect
+f or
+_beh av
+_True ,
+S PARK
+b ine
+le ase
+_py thon
+_block s
+ed uce
+_1 )
+ct u
+r ea
+_wrapp ed
+`.
+ 
+
+
+- -
+_""" S
+= j
+_wrapp er
+r ic
+_o ld
+_sl ideDuration
+') .ccolect)
+
+
+
+_df .group
+pe ar
+_jav _c
+j son
+ind ices
+_pd. Index
+_'2018 -01-
+ax is
+_u nd
+1 :
+_s mall
+_In tegerType
+u c
+_rec ent
+_D ata
+n ames
+_st orage
+and ard
+_ch o
+=False ):
+
+e v
+A L
+_C om
+s (self,
+{ }
+ct x
+r )
+
+.f rom
+None ):
+
+_to t
+(r ange
+. ")
+
+_s q
+ow er
+eter min
+_f ail
+rdd _des
+' ).
+_function s
+n an
+re l
+--- --
+g r
+f req
+_j df
+v ing
+ro r
+[ ns
+b est
+_i ndex
+ign ore
+_token izer
+t ension
+_se e
+rou gh
+d ir
+. load
+_on ce
+] ]
+race back
+s ))
+
+V M
+c al
+est ed
+) .s
+t es
+el f
+O R
+_desc ri
+f loat
+_tot al
+_5 ,
+5 
+
+_d uplic
+_as sum
+2 .
+ol l
+_st d
+Iter ation
+ple ment
+d ict
+v a
+_isinstance( col
+- +
+_convert _to
+_LabeledP oint
+_LabeledP oint(
+_m o
+_+ ------
+[0 ]
+
+_s df
+( result
+_s ent
+id x
+R atio
+_[R ow
+- 01
+mat ch
+(n p.
+Name Of
+NameOf C
+NameOfC orrupt
+NameOfCorrupt Record
+_``f alse
+_values .
+_model _name
+idd en
+_Also 
+
+g ine
+n e
+_specified ,
+_with in
+), ),
+_index ,
+s: //
+e )
+
+
+s( ):
+
+_ _create
+Type ,
+)
+ e)
+
+=True ,
+_the y
+h as
+_T im
+. ap
+.d t
+_ Y
+} 
+
+qu ared
+[ i]
+_re ver
+" ]
+_pres er
+) :
+_warnings. war
+_[ 0,
+eri al
+(n um
+in fo
+_dep th
+s[ i]
+_ Key
+_func ,
+[ 1,
+_gener ated
+_Column(j c)
+_wra p
+_c ent
+(s )
+_[Row( name
+_drop na
+_exist ing
+_sc ._jvm.functions.
+`` :
+' |
+_df.group by
+F ormat
+ot on
+B lock
+_np. ndarray
+_ma jor
+_obj .co
+_t orch
+edd ing
+C LS
+_an sw
+_so ftmax
+_n ans
+_cl assi
+_path :
+_th rough
+= k
+_list (
+_ Par
+l a
+_T raceback
+_( most
+_last ):
+
+amedt uple
+F ield
+at te
+_be en
+t z
+_d ay
+_th row
+_per form
+(p ath
+_s ide
+C T
+able d
+ed .
+
+_N ot
+_neg ative
+_tr y
+(ell f,
+art it
+y n
+_fil ter
+(t emp
+. i
+_W indow
+_r ank
+_convert_to _vector
+P ro
+. set
+.f ind
+. start
+_self._s c
+_equ ivalent
+__to_java _column
+_' B
+p ace
+pro b
+' ))
+
+_spark.createDataFrame([ ('
+00 :
+B C
+V E
+U DF
+_be ing
+_`` \
+_self._j write
+_s erver
+_min or
+_state ['
+nt 64
+_is _list_like
+g o
+_direct ory
+e s
+_p ickle
+_object 
+
+_' f
+_tim es
+ar ch
+F i
+C E
+fi eld
+(obj ,
+_isinstance( obj,
+_None 
+
+
+_verifi er
+all l
+_False ,
+o ol
+_T OD
+_TOD O
+_hand le
+ou s
+i or
+_Whe terr
+_g lobal
+.c lose
+_values ,
+1 
+
+_b oth
+ve l
+_f l
+) .collect()
+
+_replace ment
+_can not
+C o
+et t
+_other .
+. read
+_ent ry
+[0 ],
+_value .
+( a
+_( list
+_config uration
+S erializer
+_( c
+ra p
+_j ust
+_need s
+_col s
+other ,
++ 
+
+- +
+
+- -+
+
+m s
+_indic ates
+ra d
+_data base
+s chema
+W eight
+-+ -+
+
+(col ,
+_j a
+ess age
+ur l
+_k ind
+_se par
+_1.0 |
+ap ing
+_line S
+_lineS ep
+_``false `.
+
+
+oton ic
+_mis sing
+ma jor
+datetime 64
+m od
+_optional 
+
+_arch ive
+_answ er
+_max _seq_length
+_tim edelta
+_list -like
+000 -01
+_P anel
+_T rain
+rou nd
+_' w
+_th reshold
+5 4
+yp e,
+s 
+
+
+il ity
+_list ):
+
+_Ar ray
+el em
+_ac cept
+_J VM
+n ew
+_requir e
+_st andard
+_behav ior
+_up d
+Re g
+_G ener
+L ine
+o id
+W arning
+am m
+_other wise
+_1 
+
+
+_ &
+i a
+_3 .0
+in i
+)
+ )
+
+_[ 0
+t en
+rdd_des erializer
+_cre ated
+ator r
+_p attern
+_clo sed
+( e
+_T r
+_j ob
+ro l
+_the se
+. or
+_isinstance( other,
+_con d
+" ,
+
+iz ation
+u tion
+_distri bu
+_distribu tion
+_up date
+_self._j df
+_data .
+_sql Context
+( {
+ast ype
+.. .
+_emb ed
+.c opy
+(_to _jav_c
+ff set
+_U DF
+_in fe
+_qu ot
+I VE
+_str ide
+_A s
+_d ense
+_model_name _or
+fi er
+.d efault
+s, ,
+atche d
+_t to
+ar ge
+tp s://
+low er
+_name 
+
+_n amedtuple
+_in f
+_name =
+u s
+_bin ary
+_ dtype
+ur ing
+av ing
+_Row( name
+_R un
+_evalu ate
+me e
+alu es
+M o
+( index
+_av oid
+( 2,
+in ct
+Replace ment
+4 
+
+_ keep
+ic ient
+_other ):
+
+_record s
+R educe
+d ',
+_f all
+s elf
+_aggreg ate
+_c ur
+_me ans
+.s ave
+quen ce
+_batch Size
+_av g
+G roup
+_t ask
+_RDD .
+
+_t rue
+_in v
+de l
+_con si
+_es timator
+( h
+_* args,
+_attribut es
+( ot
+_5 |
+name ',
+_df .
+=False ,
+) |
+_se p
+it es
+ites pace
+i py
+_Num Py
+_I m
+_start _position
+_en gine
+_group er
+_met a
+_2 000-01
+(name ,
+[1 ]
+_f ound
+[ i
+_result s
+5 5
 I L
+" :
+
+_ c
+_ _parse
+m it
+_e :
+
+_C heck
+b ",
+_py arrow
+_p df
+0 0
+_: py
+_:py :
+uff le
+_d ump
+_self. values
+_p ort
+_as sign
+_self. ctx
+_(' b',
+(f unc
+_s um
+] ).
+u ar
+_w ant
+am ma
+_an other
+(1 )
+
+D ep
+_it 
+
+_a ctu
+= None,
+_' '
+t -
+a s
+( to
+S tr
+ut e
+S park
+res pon
+W indow
+_ch ild
+_pa rent
+_pyspark .mllib
+ess onn
+A ll
+Func tion
+_**kwarg s)
+
+_St ream
+_Stream ing
+_d stream
+in nd
+_DataFrame (j
+--+
+ 
+
+S T
+.c olumn
+tr ue
+_m essage
+_e ver
+__ heap
+_c op
+_param Map
+col umn
+Tpee `
+_ex clu
+_par sing
+_C SV
+_allow s
+_wh itespace
+_Im port
+reg ister
+_sl ic
+en sor
+_pre -
+_end _position
+_und er
+gor ith
+_U se
+m a
+ot t
+l ine
+. en
+_d el
+a ke
+_sim ilar
+b l
+_lo ok
+_" c
+_object s
+_d on't
+m ark
+_type .
+._jvm. org.apache.sarrk
+_comp ati
+_m app
+is ion
+(obj )
+
+__make _type
+ed ,
+n ,
+1 2
+_conver sion
+_with out
+_d uring
+_p d
+= onn
+_add ition
+(sel f
+er g
+_c le
+_rever se
+( iter
+5 0
+_-1 :
+
+_un icode
+', 
+
+_S et
+_com put
+ed .
+_2 ),
+uar an
+uaran te
+1 .
+_0. 9
+l ambda
+a it
+_col lect
+_f inal
+bu ck
+um ul
+_(list ,
+_continue 
+
+_for m
+_( None
+allel ism
+_ab s(
+d o
+ri er
+).alias ("
+] 
+
+_cond ition
+_us age
+--+
+ --+
+_B ob
+o ver
+all ("
+m odel
+_path ):
+
+r essonn
+S ub
+_`` spark.sql
+chema ,
+res s
+_cor rect
+r andom
+_DataFrame(j df,
+_follow ing
+_+---+ -----
+P andas
+* *
+_ever y
+_n an
+_con cat
+_' C
+_self. _df
+u l
+ines is
+_" .join
+_st ub
+p ickle
+_Key Error
+_pretrained _model_name_or
+_pretrained_model_name_or _at
+_result .
+_mask ed
+_G H
+_self. group
+_2000-01 -01
+_period s
+_data .
+
+_m any
+=0 .
+I ON
+_Exception ("
+_function 
+
+. D
+_b el
+_com par
+- b
+" ):
+
+_l ess
+_f ast
+D A
+" .
+
+e t
+upport ed
+_( i
+_data type
+8 ,
+_field s
+Type ):
+
+_c ast
+(n ew
+_f ,
+_int 64
+_is _datetime64
+_norm al
+k ,
+pl ic
+D ict
+V alues
+py thon
+em ory
+_2 
+
+_ch unk
+_in place
+(s ort
+l er
+k es
+_U TF
+f -8
+8 
+
+(f ,
+_x ,
+_seed =None):
+
+_g uarante
+DataFrame `.
+
+
+e g
+_1 )
+
+_o ur
+_d elta
+_un ion
+_ev en
+_self.map Partitonns(
+ever ,
+O p
+0 .
+_j rdd
+ust om
+_list ,
+_' p
+ig ger
+eff icient
+ar rier
+- -
+-- -
+- -
+-- --
+---- +
+a f
+_" a
+t ing
+= 3
+ar s
+_c onn
+_clo sure
+_func ._
+_ign ored
+_su ffix
+_window Duration
+_M L
+_df 2
+_def ines
+8 0
+u es
+[ns ]
+_N A
+_java _stage
+__java _obj.
+__java_obj. set
+]
+ 
+
+_00: 00:
+_c sv
+_` pandas
+_l ower
+_set ,
+
+_qu ote
+_esc ape
+R A
+_re f
+_re fer
+_dif f
+_Import Er
+_ImportEr ror
+_ pro
+c el
+_pres erve
+a fe
+_stream ing
+_writ er
+_resol ved
+_emb edding
+_[ CLS
+_input _mask
+uto ff
+_log prob
+nt64 In
+_ob ser
+.
+ 
+
+
+_C h
+_al gorith
+n n
+(m odel
+_w id
+_0 )
+s ample
+= 1,
+_H ow
+_d et
+up les
+im age
+c ul
+_D D
+_DD L
+Type (
+P T
+
+
+
+ 
+
+.st rip
+(obj ):
+
+_scal e
+_dict ):
+
+( row
+item s
+_conver ter
+_it 's
+or or
+yp es
+
+_ all
+1 4
+.d ate
+s onn
+_TODO :
+T im
+_for 
+
+_inter n
+y s
+_G et
+_pro ces
+_os.path .join
+_self. m
+[ k
+_2 0
+U P
+C H
+5 6
+ra g
+d d
+_preser ves
+.map (lambda
+With Index
+.0 
+
+
+; 
+
+_iter ation
+2 )
+P artit
+_par t
+_pair s
+_pro d
+w ith
+er er
+oc i
+_oper ator
+" 
+
+
+_im plement
+_col lection
+1 .0,
+.s um
+_are 
+
+_example ,
+. h
+or ary
+=True )
+
+el y
+end ed
+U til
+A pp
+. 
+
+_ _(
+_[Row( age=
+_cor respon
+( array
+_ex ec
+_isinstance(s chema,
+_self._ set
+_java _model
+L oad
+_function .
+` 
+
+
+_param s
+_+---+ --+
+
+
+( arr
+=u'Bob ',
+he ight
+etermin istic
+_numpy .
+r ange
+pe at
+_extra ct
+ut ure
+pandas _udf
+_df.groupby ('
+x t
+t oc
+toc ol
+_dtype= np.
+_Dense Vector
+_As ser
+_Asser tion
+_Assertion Error
+as array
+_model 
+
+(m sg
+_self. out
+_co .co
+_self.s ave
+(' _
+_self._s h
+transform er
+token s
+_len( input
+_h idden
+_' 
+
+allow _copy
+_2. 9
+_c ython
+_holiday s
+es e
+)
+)
+ 
+
+_l arg
+oin ng
+r ary
+_M ake
+_0 ),
+em pty
+ail able
+_O ption
+_point s
+_t t
+t in
+_sh ort
+_dec imal
+E T
+_B y
+_S h
+_ _
+S truct
+_ onn
+at ta
+_allow ed
+_type (dt
+_Tim estamp
+st t
+_convert ed
+_require _inn
+_require_inn imum
+_ver sonn
+_n ested
+l ocal
+f 1
+_com b
+f un
+.close ()
+
+_po s
+f ul
+" ),
+_pass 
+
+_0 x
+ro ss
+_def ined
+_preserves Par
+_preservesPar titi
+_preservesPartiti ining
+_with Replacement
+_prob ab
+_ex act
+_fi x
+. take
+_sh uffle
+ou n
+i ce
+_partitonn Func
+i an
+a li
+he re
+2 )
+
+_' c
+s[0 ]
+
+_1 ]
+_b ase
+_temp File
+ec )
+)
+
+inn er
+tra ct
+_pl ace
+(rdd ,
+_" d
+I d
+.default Par
+al lel
+ro x
+L ocal
+_ali as
+_key word
+_s el
+an ces
+_data :
+
+b Name
+spark Session
+. up
+_al way
+_cent er
+- 3
+e ,
+
+Stream ing
+.f or
+_long ,
+se e
+_+--- 
+
+
+= s
+how ()
+
+_DataFrame (self._j
+. c
+_pd. DataFrame
+_' min
+.d ot
+ar ter
+y y
+_spec ial
+_` start
+da te
+I S
+_Pandas UDF
+_PandasUDF Type
+_self._df (sel
+_self._df(sel re
+_self._df(selre _j
+form ed
+_`` column
+_( ex
+_DataFrame 
+
+ifi es
+_n n
+(self )
+Row s,
+at t(
+_i .i
+_i.i .d
+_comp at
+a is
+_pre- trained
+_tokens _b
+_l m
+s z
+_layer _str
+_make _invalid
+_make_invalid _op
+u ffix
+_C ython
+_t ree
+_under ly
+" ))
+
+T E
+_ i
+ott om
+c e
+_av ailable
+es ,
+2 :
+L ist
+Type :
+
+_isinstance (data
+ex p
+_verifi er(
+(" a",
+ou ble
+_s s
+_ _check
+a /
+_2 01
+_dtype :
+_parameter s
+_type ,
+( op
+type ,
+ver sion
+_cache d
+_Run time
+am ame
+v ir
+vir on
+O C
+_iterator :
+
+_used _memory
+il led
+_m erg
+l in
+-1 ]
+2 ',
+_from 
+
+_version ch
+_versionch ang
+(iter ator
+.co unt
+_seed )
+S plit
+_numPartitonns= None,
+h ite
+_bound ary
+( y
+p i
+_pr int(
+_as s
+_ass oci
+se q
+. add
+value ,
+_interpol ate
+T ext
+od ec
+F il
+T emp
+' ])
+_l ines
+_partitonn By
+_add ed
+_S o
+( ),
+
+_time out
+.or g
+th is
+_:class:` Column
+_string s
+= 5
+o res
+_ter m
+im ilar
+_sc ,
+_M ax
+_Max imum
+ari ance
+= 4
+_g rad
+Name ,
+_schema ,
+_S PARK
+_actu al
+[1 :
+_alway s
+_proper ties
+_raise 
+
+qu ent
+_sequen ces
+_c ell
+si de
+c ast
+_posi tive
+_[Row(name =u'Alice',
+i li
+_( p
+_A R
+.m l.
+h e
+_:class:`pyspark.sql.types .
+_format s
+For mat
+ee k
+_we e
+_wee k
+val Type
+_@ pandas_udf
+_id s,
+_mis match
+_spark .read
+s ``
+enti al
+i ra
+_d imension
+r ames
+_B lock
+_dtype= dt
+_' _
+_i.i.d .
+_Not es
+
+_- ----
+_----- 
+
+.b ias
+.to ken
+_token s.append
+_self._sh allow_copy
+_level s
+_left _indexer
+_kn n
+= F
+or s
+f ication
+_underly ing
+th h
+s ,
+_algorith m
+t onn
+_t est
+.p redict
+ra w
+o ve
+_a g
+n ly
+_np. array
+_" s
+im a
+_s _sin
+_s_sin ing
+_ ,
+el t
+O RE
+_data Type
+_% d
+(k ,
+f low
+} )
+
+_type(dt )
+_arrow _type
+_su ch
+.t z
+_rec ur
+/ t
+_sp ill
+By tes
+Bytes Sp
+BytesSp illed
+_par titi
+_partiti oinng
+_cle an
+. _s
+_ ch
+_b re
+_bre ak
+he ad
+cre t
+_sy s.
+_default s
+_versionchang ed::
+_RDD .
+
+
+Partitonns WithIndex
+_this 
+
+_sc.parallelize([ 1,
+_warnings.war n
+map (lambda
+1 ]
+( it
+ut f-8
+_red uc
+_max imum
+_a ,
+_Com pute
+_[ 2
+_w ould
+_tuple )):
+
+_2 :
+
+_need ed
+S c
+J ob
+_infer red
+_( s
+_result 
+
+_other ,
+_return ing
+_tr igger
+l ing
+per im
+perim ent
+periment al
+P o
+col s):
+
+is in
+ol ol
+]
+ ]
+
+_kwarg s
+_Spark Session
+on ion
+_isinstance( value,
+M ode
+_Vector s.
+_vector s
+_0 .0
+
+E n
+(key ,
+_Note :
+_initial izatonn
+_initial Model
+Weight s
+T er
+_op tim
+a mp
+_numPartitonn s:
+_appl ies
+Con f
++
+ 
+
+_:class:`pyspark.sql.types .S
+ro ad
+road cast
+_str ,
+( arg
+_col :
+0 |
+_ne cess
+_necess ary
+)) ]
+
+ili ties
+po sed
+' .
+_pyspark.sql .types
+LE CT
+. size
+_ _s
+_di rection
+_call able
+= e
+_ st
+yy y
+ul es
+oc h
+_parsing .
+par quet
+_infe rence
+_date Format
+_timestamp Format
+_sampling Ratio
+_local e
+al formed
+ing W
+ingW hite
+ingWhite Sp
+ingWhiteSp ace
+i pp
+_ url
+A c
+_j ira
+ri es
+[ j
+_np. asarray
+s[ '
+_g w
+Qu ery
+iv ot
+(s hape
+_names =
+datetime64 [ns]
+_Py T
+_PyT orch
+_pretrained_model_name_or_at th
+un ique
+_segment _id
+ind ex
+_self. config
+_group ['
+nt64In exx
+ategor ical
+([' 201
+_make_invalid_op ('_
+_kn own
+r ,
+_f aces
+_pick led
+_( if
+_sh ow
+_bel ow
+. text
+m ed
+_ra w
+r id
+val id
+In valid
+in valid
+_the ir
+el d
+) 
+
+_M ap
+b ility
+_D ec
+_TypeError :
+
+. key
+_null able
+_not 
+
+(s chema
+T h
+s am
+_pandas .
+m b
+_a d
+_1 :
+) ])
+
+_True 
+
+
+A n
+C annot
+Reg ression
+_:py: class:`
+set ,
+_l r
+rer es
+_attribut e
+_data 
+
+_g o
+_ex ternal
+(ell f.
+_100 ,
+3 
+
+_sock et
+_( 3,
+_isinstance( x,
+_[(' a',
+_2 )
+
+el el
+_:class:` DataFrame`.
+
+
+_sc.parallelize (range
+_RDD s
+B ound
+_norm alize
+er 
+
+_will 
+
+_v :
+_( 1,
+_k v
+_com m
+(c om
+_result ,
+_buck et
+_buck ets
+1 00
+_in c
+_d iction
+6 ,
+( 3,
+( str
+_numPartitonn s,
+" ))
+_vari able
+.s ort
+(values ,
+_re l
+s tr
+_( in
+ex pected
+_value ):
+
+--+
+--+ --+
+
+_RDD ):
+
+eat ure
+or ing
+_le af
+_requir ed
+0 .0,
+T rees
+.ex ec
+_descri ption
+vi ew
+N ame
+.j son
+_self._ se
+d oc
+_N ame
+_d im
+.m k
+_( b
+_bet a
+_cont ent
+_tr unc
+Alice |
+
+_Bob |
+
+=True ):
+
+_+ ----+
+_{ 0
+0 3
+A ',
+Error ,
+rel ation
+9 4
+In f
+N T
+eat ures
+_im pl
+_instance 
+
+es .
+l ast
+Type `
+_spark.createDataFrame([ (
+yyy y
+_start ,
+_" value
+_option s
+qu ot
+quot ed
+st ep
+D ec
+RO UP
+ED _M
+_self._df(selre_j rea
+_`` true
+p )
+
+= co
+n or
+_K inesis
+_x range
+ie ce
+_sc ipy
+.find ('
+Col s,
+RE T
+_termin ated
+.shape 
+
+umul ator
+.u df.
+.udf. register
+_co er
+elet on
+qu al
+_T ensor
+_Tensor F
+_TensorF low
+_[SEP ]
+ke ns
+_ l
+_l ab
+_'2018-01- ',',
+( ax
+_freq ='
+_range (start
+19 6
+_ver b
+=F al
+.d ump
+c ode
+_s ure
+s[0 ],
+_ag ain
+_ et
+_ht tps://
+_(i .e
+( a,
+p e
+ue ,
+IG N
+A IL
+_sc ._jvm.org.apache.sarrk
+. sql
+t h
+_" _
+s ]
+
+__ 
+
+__make_type _verifier(
+N o
+_% r
+_obj ,
+al al
+.S eries
+.u til
+_i _
+in ter
+_intern al
+_>>> 
+
+S eries
+(d at
+name ':
+. as
+d u
+_class __.
+_class__. _
+(j ava
+Mo ell
+_self. p
+_p ut
+( u
+_f it
+_st ack
+_re al
+(x ):
+
+_3 ),
+_D ep
+_seed :
+1 )
+( all
+_ q
+_s erial
+(ell f
+ri ali
+pro cess
+dd d
+s. p
+_2 ],
+_or dered
+_pre vi
+_previ ous
+_O ther
+} )
+P I
+it it
+.save As
+ul ly
+_class name
+Temp orary
+elet e
+_(" b",
+ge e
+):
+ 
+
+_sub str
+_:class:`Column `
+- -
+-- +
+- -
+-- -
+-- ---
+.function s
+c orr
+F ea
+n on
+_im p
+_max B
+_maxB in
+Class es
+_n ode
+.0 ]
+A N
+> 
+
+_s parse
+_model .
+_self._j conf
+T able
+_head er
+_vari ables
+_string 
+
+ti ng
+in it
+_o c
+act or
+arg s
+sw ith
+str ea
+nd d
+st ate
+f irst
+_:class:`pyspark.sql.types.S truct
+_A t
+_E v
+_DataFrame .
+
+
+") .collect()
+
+_height =
+.c .c
+(ot he
+4 .
+_` p
+7 0
+_string s,
+_spark .sql
+_" t
+_[ b
+de v
+arg in
+M a
+__heap replace
+_ep m
+_c um
+yyyy -
+qu arter
+_separ ator
+_array s
+} '
+_: met
+_:met h
+_:meth :`
+_self._df(selre_jrea err
+_co ver
+_fl ag
+ch ar
+_exist s.
+
+I m
+.s quared
+_array -like
+" ]
+
+_pro tocol
+_ ed
+or ig
+n ing
+b oun
+boun edd
+s. n
+.d type
+str (x)
+_c p
+_fill _value
+_f file
+(p ointer
+RET RA
+RETRA IN
+_config _file
+_id s:
+_input _ids
+_index es
+_: :
+_may be
+_dtype=' int64
+_n group
+_dtype (dt
+_is _scalar
+tension Array
+_isin n
+_cl s)
+
+_axis ,
+_d eri
+_deri v
+_period s=
+_( 196
+_verb ose
+=Fal se
+=False )
+
+_classi fier
+at ic
+(o s
+_to o
+_pred ict
+_E X
+_' r
+_range (len
+pl ay
+_array 
+
+_to _up
+_t uples
+atche s
+ma g
+_inclu de
+_process ing
+_l and
+_land mark
+_[ [
+.com /
+] ]
+
+-d imension
+_cal cul
+- format
+si tive
+IGN ORE
+_back ward
+_compati bility
+_True )
+
+Type (),
+()
+ 
+
+
+_obj ._
+n )
+
+_ValueError (
+
+_pa .
+.s chema
+_types .is
+_ time
+_require_innimum _pandas
+_require_innimum_pandas _versonn
+-0 4
+.d at
+_recur sive
+T rain
+_Runtime Error
+_class__._ amame
+s. path
+a gg
+bine r
+ree am
+_S ort
+_s ign
+_se cret
+_ma in
+_Exception :
+
+_bu il
+2 4
+(r '
+_per sist
+" ])
+
+_( x,
+(s plit
+reduce ByKey
+(1 0
+w eight
+_r and
+' re
+_self._j rdd_deserializer
+_inter se
+.map (
+_self. _default
+_value )
+_key -
+_bin s
+ore ach
+d )
+
+_S top
+.t ree
+ut ed
+ath er
+_aggreg ation
+_min imum
+_2 .0
+
+_duplic ates
+_le ast
+] .
+s.p op
+_Other wise
+_ta ken
+le le
+I nt
+_writ ten
+), ()
+_D efault
+_{} 
+
+( out
+_(e.g. ,
+_cont rol
+" .
+as h
+c .
+l imit
+} 
+
+
+p ick
+_Ex perimental
+_j d
+. mean
+.org /
+h er
+_P lease
+s. to
+Or C
+OrC reate
+--- -+
+H E
+_pyspark.sql .functions
+_direct ly
+_self.c all("
+_t re
+_categorical Fea
+_categoricalFea reres
+_categoricalFeareres Info
+_max Dep
+_n odes
+_pyspark.mllib .
+_model .predict
+_requir es
+u red
+_s ession
+_d bName
+_aut h
+el e
+T ask
+8 6
+_m ix
+att onn
+_dec ay
+_isinstance (data,
+_prediction s
+_top ic
+ter val
+_arg s
+_v ar
+e am
+se l
+_windowDuration ,
+ind ow(
+_wh at
+(l abel
+ibut e
+`` 
+
+ati ng
+_Ev ol
+_Evol ving
+-+
+ --+
+_s elect
+_d ed
+_null |
+_all _of
+isin stance
+_re p
+ar ies
+_mo st
+_inst al
+_column s=
+_pre t
+_pret ty
+_reg ular
+is h
+_-1 
+
+in el
+d ense
+_Dense Matrix
+_evalu ator
+_py _stage
+_dict ()
+
+.copy ()
+
+(d ate
+.D ate
+_mon th
+3 -1
+_[Row (s
+_charact ers
+ta ,
+( sc,
+dered Dict
+_' a
+L ead
+=onn e,
+E sc
+_c orrup
+_corrup ted
+_par quet
+[ SPARK
+nd ices
+_Index ed
+_pass 
+
+
+_2. 3
+_pro fil
+Error :
+
+= self.
+_In put
+_comp ri
+_compri sed
+_self._j s
+_hasattr (m
+(p ickle
+_' g
+_set up
+_getattr (pointer
+_getattr(pointer ,
+_new _key
+_".join ([
+_ text
+in ndex
+_logprob _i
+_construct or
+_ensure _index
+_I nt64Inexx
+_**kwarg s)
+_dtype=' datetime64[ns]
+_C ategorical
+_' right
+_sel ection
+_deriv ati
+w _limit
+_re co
+_( or
+.s q
+( X
+_mat che
+_remo ve
+_:return :
+
+_d raw
+_right ,
+_b ottom
+( (
+2 8
+1 7
+-dimension al
+_ )
+T y
+o )
+
+CE PT
+Ex ception
+_j s
+_mapp ing
+_1 )]
+
+.f ield
+elem ent
+_isinstance(data Type,
+_False 
+
+
+_D ate
+T C
+_spark _type
+c a
+sam mp
+_loc alize
+_a w
+_is_datetime64 tz
+f rame
+plic it
+. time
+l oc
+.ap ply
+_addition al
+as s,
+_age =1
+_' age
+_% 
+
+s. "
+(s ub
+_get _used_memory
+Com biner
+is k
+_" w
+( ite
+_key =k
+.f l
+able _hash
+_1 000
+.s ub
+_st orageLevel
+_apply ing
+(func ,
+P a
+_dist inct
+pl ac
+_exact ly
+_3 ],
+_[ self.
+S ample
+True ,
+_g re
+_l arge
+_ ~
+_h aving
+_sq r
+._j r
+Num Partitonns
+_acc ord
+_[ (1,
+._ onn
+", ,
+w h
+_prod uct
+D e
+_( f
+_p i
+%s '
+_zero Value
+umm y
+_how ever,
+_S cal
+_r ather
+on n
+un ter
+w here
+_used .
+
+
+buck et
+_range (
+s[ i
+(sel f,
+_key- value
+_A PI
+er t
+_f ully
+P ickle
+_S e
+\n \
+3 .
+_E ach
+_- -
+_group ing
+an a
+_re ce
+_storage _level
+time out
+_rel ative
+_appro x
+_l a
+_ _to
+col s
+_name )
+._j c
+_* cols):
+
+_name =u'Alice
+" ).
+ord er
+_ _convert_to_vector
+_l ater
+Me an
+del )
+_1.0 
+
+_st oring
+_( n
+reg ressonn
+([ 1
+te g
+o o
+(value )
+
+load ing
+(df ,
+iti alize
+c opy
+_rdd ,
+_max Iteration
+_warnings.warn ("
+S ta
+_self. _validate
+_isinstance( path
+arr g
+_s sc
+er n
+_` end
+_se en
+_sl id
+_slid ing
+r ay
+_boolean ,
+1 ",
+_name |
+
+m l
+_assum e
+.r ange
+_S pec
+en nd
+7 5
+_spec if
+ex pr
+.d rop
+_:func:` DataFrame
+_' all
+_string .
+
+.re place
+anti le
+_optim izatonn
+_float (
+_co v
+em pt
+.exec ution
+. arrow
+Ar row
+st rip
+_m argin
+.p op
+_th read
+_A c
+Val id
+_re set
+_cop ies
+de d
+_function :
+(_to_jav_c column
+_df.select (
+er mat
+ermat t
+_`start `
+_00:00: 00
+_index .
+le v
+tr ans
+_d at
+_I NT
+N ames
+SE LECT
+_A BC
+p and
+b ool
+_op t
+_multi Line
+.
+ .
+\ r
+_U R
+` :
+s ue
+( text
+_min Partitonns
+_fall s
+Per Block
+_Block Matrix
+res hape
+er sion
+_pl at
+_plat form
+8 9
+_fi len
+_filen ame
+_read er
+_to ken
+Ter min
+od de
+_sk eleton
+_write (pickle
+_write(pickle .
+.up date
+(model ,
+_l [0]
+_AR CH
+_ARCH IVE
+_arch iv
+es ul
+_[SEP ]
+
+_doc _span
+_n best
+_ed ge
+[: ,
+.for att(
+_t 2
+_self.out _layer
+_r ule
+( level
+le vel
+_np. nan
+_dtype='datetime64[ns] ',
+ar ange
+_' left
+__make _ar
+__make_ar ith
+__make_arith me
+__make_arithme tic
+__make_arithmetic _op
+_obser ved
+_axis= ax
+_n v
+_end _date
+k 
+
+_aut om
+_autom atic
+_[ ]
+
+
+_ d
+_d ri
+_im g
+_ f
+I mage
+_face _location
+L L
+_F ind
+g ,
+l )
+
+_order 
+
+en c
+_mode :
+ann el
+_cont ents
+_function .
+
+
+__parse _data
+__parse_data ty
+__parse_dataty _s_sining
+_DDL -format
+_DDL-format ted
+O U
+om m
+at al
+s. get
+_pre c
+_( t
+in ity
+()
+ )
+
+_name )
+
+s.append (
+Type ()
+
+(s ,
+? 
+
+ype )
+_does n't
+_Con struct
+_ \
+_str ):
+
+S ummary
+__ )
+_:py:class:` p
+_:py:class:`p ys
+_% s."
+se s
+_partitonn ed
+_ab ove
+.item s():
+
+_ch unk
+se elf
+_key =
+_sort er
+he n
+ER M
+_3 
+
+_P er
+_numPartitonns= None):
+
+_ex pect
+_dri ver
+_gre ater
+.un ion
+._j rdd
+py .
+_( self.
+_accord ing
+Partit ion
+orr r
+_par ts
+_can 't
+] ),
+_10 )
+
+_reduc ed
+_appl ied
+num Partitonns
+.0 ])
+
+_y our
+_diction ary
+ut put
+\ \
+)
+ ))
+
+_(" a",
+i at
+_a gg
+_ch ange
+age )
+_[ x
+ra ble
+c t
+_index .
+
+
+[0 ])
+
+L og
+_column .
+
+
+_. format
+_Column ):
+
+_in form
+_inform ation
+_st ored
+_correspon ding
+- -
+-- -
+- -
+-- -
+--- -
+---- -
+----- 
+
+u ed
+_self. num
+_Tr ansform
+_similar ity
+_path )
+
+_{ 0,
+_LabeledPoint( 0.0,
+_LabeledPoint( 1.0,
+_consi der
+1 )
+
+_default Value
+)
+
+
+ 
+
+_** option
+_method s
+or ator
+M et
+_Gener ates
+_d iv
+Me ans
+t ure
+i j
+_with 
+
+_call ing
+_vocab ul
+_vocabul ary
+_indices ,
+_isinstance(path ,
+c ent
+r ation
+_float ,
+.start swith
+P r
+_b 
+
+in in
+S upport
+_+------ ---
+_+---
+
+ -----
+_self. _java
+{ "
+_self._j df.
+tr ibute
+po se
+_pl an
+_al ign
+age |
+} ".format
+_indic ating
+`` ,
+
+_stat istic
+----- -+
+--+
+_remo ved
+_Y ou
+_d ro
+_+---+----- -+-+
+
+_values .
+
+.f ill
+' }
+_at 
+
+. DataFrame`
+.execution .arrow
+A t
+_n ow
+st at
+_format ted
+`` `
+_NA ME
+_N O
+d ot
+_cor rection
+_T F
+__s ift
+_appro pr
+N aN
+_met ric
+_ab s
+Sub Model
+_java_stage .
+E s
+u id
+java .time
+java.time .format
+java.time.format .Date
+java.time.format.Date Time
+java.time.format.DateTime F
+java.time.format.DateTimeF ermatt
+], ,
+mon th
+.c.c lel
+.c.clel ec)
+)
+
+,
+ ,
+
+_le v
+d +
+Un quoted
+_spark.sql ("
+_spark.sql(" SELECT
+.S QL
+ap ply
+_C ustom
+_Par quet
+for ce
+in fer
+in f
+.c ore
+_ac cess
+zero s(
+_sc :
+_Row Matrix
+_ Q
+_dec om
+_v 2
+ra vel
+_Type Converter
+back _server
+S erver
+od ule
+_spark .udf.register
+_sqlContext .createDataFrame
+S l
+Sl ices
+._j sc,
+orm al
+pon ential
+_Evolving .
+
+
+och _id
+_i id
+sub class
+_R ais
+t orch
+_cache _dir
+_from _tf
+_ind ex
+_tokens _a
+_[CLS ]
+[ SEP
+_p add
+_id s)
+(0 )
+
+_".join([ str(x)
+_non _
+_tf _to
+_p t
+_hasattr(m ,
+sz ,
+O ffset
+_mon otonic
+i 8
+_self. name
+_is na
+M ultiIndex
+_new _codes
+_DatetimeIndex (['201
+astype ('
+(o pe
+(ope atorr
+_interpol ation
+_termin al
+_B 
+
+( quarter
+(quarter ly
+_numeric _only
+_start _date
+_pd. array
+_'201 7
+_al go
+_reco gn
+_( option
+_(option al
+_classi fication
+_L o
+_sk ip
+_{}".format (
+_cl f
+_loc ations
+_P redict
+_( to
+_re ct
+_c s
+ec t
+l ect
+_compar is
+_comparis on
+l inal
+_small er
+_fast er
+_[ point
+_[point s[
+s ))
+_+ IGNORE
+_+IGNORE _EX
+_+IGNORE_EX CEPT
+_+IGNORE_EXCEPT ION
+_+IGNORE_EXCEPTION _D
+_+IGNORE_EXCEPTION_D ET
+_+IGNORE_EXCEPTION_DET AIL
+_+IGNORE_EXCEPTION_DETAIL 
+
+. .
+
+
+_obj 
+
+N ull
+_Array Type(
+ext end
+T yp
+ab l
+_type 
+
+o olean
+] :
+
+(at ):
+
+(f rom
+_is_datetime64tz _dtype
+_data frame
+3 0
+_upd ated
+An y
+he e
+R ow(
+_Row( age=
+_throw n
+_if 
+
+_in cre
+_self.s erializer
+_s reeam
+_f in
+vel y
+_self. partitonn
+(path ,
+_clo se
+( S
+_re st
+ce e
+_l at
+D es
+Des erializer
+file ,
+_2 00
+_f ._
+per sist
+_loc ally
+.collect ())
+
+_sample d
+.s ample
+me nt
+_fix ed
+ou gh
+i er
+si z
+ot al
+e ri
+_ co
+))
+ 
+
+
+or t
+ByKey (self,
+_assum ed
+key ,
+ing ,
+_[ 2,
+]) ]
+
+(iterator ):
+
+(x )
+
+_S C
+S yn
+lo a
+ing .
+_y ,
+_0 )
+
+_par ti
+on t
+_cre ating
+_stat s
+_L {
+_mean ,
+r am
+2 0
+_implement ation
+Par ts
+_key Converter
+_value Converter
+= None):
+
+_file 
+
+_default )
+
+_qu al
+org.apache .h
+org.apache.h adoop
+org.apache.hadoop .
+. out
+rit able
+C odec
+_N amed
+_Named Temporary
+_NamedTemporary File
+atched Serializer
+( ),
+bj ect
+_key ed
+_In st
+t i
+_merge r
+_rece iv
+_larg est
+allel ism
+.defaultPar allelism
+id ence
+_Experimental 
+
+
+_A pp
+_col s,
+a )
+_doc 
+
+_[Row(age= 2,
+sp ark
+----+ -
+---- -----
+N D
+r o
+_current ly
+_imp ur
+_Ex ample
+_0. 5
+_[1 .0,
+_num Trees
+ore st
+ing .
+
+_categor ies
+St inng
+_register ed
+_schema =None,
+at ess
+_by 
+
+_S imilar
+_I D
+_an not
+e -
+_s av
+ib le
+_ eff
+_consi dered
+au ssi
+c ur
+s ',
+_""" Load
+int ,
+_break 
+
+._j d
+_wid th
+_ se
+pr ed
+se quence
+Ar ray
+ate g
+_np 
+
+.s how()
+
+_( 
+
+s ta
+_' string
+(" age
+_Row(name =u'Bob',
+_ab out
+') ]
+
+
+_dro pp
+_N o
+_re plac
+_tuple ,
+_probab ilities
+result ,
+_instal led
+_schema 
+
+_" '
+" .join(
+_ ma
+9 6
+ab el
+app op
+m an
+_0. 4
+_j vm
+_m ath
+_C re
+_from _java
+_idx ,
+_U sed
+_cl s(
+U id
+_" org.apache.sarrk
+") .ccolect)
+
+
+
+_gener al
+_ round
+_` sc
+0 ',,
+_format .
+_' year
+ON E
+ab c
+_[' a',
+s, s,
+str ,
+p ad
+l ap
+_1 ],
+_`` schema
+id ",
+_f uture
+... |
+_`pandas .DataFrame`
+/ sql
+_allow Unquoted
+Ch ar
+_column NameOfCorruptRecord
+m ulti
+_c orrupt
+_`` P
+_``P ERM
+_``PERM IS
+_``PERMIS S
+_``PERMISS IVE
+_m alformed
+_`` java.time.format.DateTimeFermatt
+_`` yyyy-
+.
+. 
+
+_``\ \r
+m ul
+te xt
+vm. Python
+ra il
+Qu ote
+_length .
+
+clu sive
+_system 
+
+_`` error
+ss ion
+o d
+com p
+_Streaming Context
+s) )
+
+
+_jira _ref
+[SPARK -
+I ndices
+_d ot
+_sc .
+4 j
+V ersion
+_ImportError :
+
+py arrow
+_ap pear
+( id
+_run ning
+_num Slices
+_H DF
+_y ear
+.un bounedd
+RDD s.
+Ac tive
+_coer ce
+s.n amedt
+s.namedt up
+Termin ation
+_contin u
+_p rag
+_prag ma
+_pragma :
+= o
+ra m
+_L ength
+_P RETRAIN
+_resolved _archiv
+_' {}
+_logger.info(" loading
+_input _id
+_token ize
+ini ndex
+_segment _ids
+_segment_id s.append
+_lower _case
+_self. init
+la ell
+_to _mask
+. index
+_Date Offset
+(result ,
+[ mask
+_0.2 4
+put mask
+_values .
+
+
+arg sort
+-like ,
+_Ex tensionArray
+' },
+_g pr
+_self.group er
+_n th
+_get _option
+(quarterly )
+_self._se lect
+_pd .date
+_int (self.
+_'min or
+ea re
+_automatic ally
+_train ed
+.j inn
+_S ave
+f y
+_class es
+_6 ,
+_tr im
+_G iven
+linal g.
+_O nly
 _number _of
 _number_of _times
-_number_of_times _to
-_number_of_times_to _upsample
-_ W
-_" c
-_in c
-ter s
-__parse_data ty
-__parse_dataty _s_string
-) )
-E T
-: ...
-_diff ere
-_differe nt
-_r ow
-_isinstance (obj,
-_field s
+_number_of_times _to_up
+_number_of_times_to_up sample
+igh er
+_prov ide
+/ 1
+2 7
+_S upported
+_model s
+- in
+_b :
+Fi eld
+: ..
+
+
+( type
+h o
+_" in
+C an
+_True )
 Type )
-v )
-M ap
-b ",
-_as ser
-_asser t
-_ac cept
+con v
 _all ue
-l l
-_pandas .
-u se
-_( e.
-_(e. g.
-_r and
-_com bin
-m erge
+. k
+_( len
+.f loat
+_U TC
+_time sammp
+__check _series
+- na
+-na ive
+_returned .
+
+
+_pandas. DataFrame
+_column ,
+5 -1
+Alice ',
+_G ets
+en viron
+a nd
+_len (self.
 _self.p data
+_1. 5
 _range (self.
-_self. errializer
+_current _chunk
+t or
+(pa th
+(path )
+)) 
+
+
+_file .
+_" r
+u t
+A S
+_v ia
+_len( x
+.com p
+. 0
+_all 
+
+rec ation
+_self.map (lambda
+_return 
+
+en nt
+L o
+_r ate
+_that 
+
+_i .e
+om ial
+_cho ice
+.s erializer
+.par titonn
+_1 0,
+.in ter
+v ,
+fil ter
+to r
+s)
+ )
+
+_3 )
+
+f lee
+art es
+artes ian
+' ]
+
+
+_' \n
+all S
+_Stop Iteration
+ang u
+1 0,
+ist og
+istog ram
+_2 )
+_Tr ans
+_O utput
+.a pi
+_associ ated
+_class 
+
+ar a
+_sc.parallelize([ ("a",
+(
+ 
+
+(j rdd
+_m ight
+Func ,
+b it
+_a ver
+_ch ang
+" ])
+.col le
+_start s
+_St orageLevel
+_un pick
+App rox
+enti ally
+3 7
+_ column
+. s
+=u'Bob ')]
+
+col s)
+_expression s
+s. .
+get attr
+- -
+-- -
+--- -
+---- -
+----- -
+S pec
+ind ow
+w indow
+(w indow
+rit er
+.t rain
+[ 2
+s. """
+
+_None )
+. "
+_config ured
+4 J
+). to
+t able
+_**option s):
+
+_source .
+
+
+_table .
+
+
+( ta
+a -
+D efault
+_train (cls,
+_set ting
+itial Model
+.c l
+_callMLlibFunc(" train
+aussi an
+e nt
+_( i,
+_use 
+
+ul ation
+_n amed
+et a
+_DStream .
+
+strea m
+_(i.e .,
+_be g
+_interval 
+
+sc ._j
+_| 
+
+as ure
+ateg ory
+.f irst
+_2 |
+
+_DataFrame(self._j df
+_trunc ate
+_df 
+
+_| age|
+_2| Alice|
+
+=' 1
+Spark Context
+Th reshold
+',, ,
+_type (
+_isinstance(col ,
+int '),
+8 5
+j oin
+_' out
+_Spec ify
+_+------ -+
+_+-------+ ---
+_null |
+
+_r s
+_column s
+
+=1 )]
+
+col 0
+_' any
+f ill
+_+----+ ------+
+--+
+_names ,
+_cor relation
+pear son
+_ta kes
+spark.sql .execution.arrow
+abled '
+_" f
+co un
+_string .
+vm ,
+A M
+_label s,
+_' h
+- c
+_sent inel
+[0] ]
+]
+
+_specify ing
+_This 
+
+O L
+_NaN ,
+mat rix
+_Cre ates
+Param s.
+_java_stage. ett
+_embed ded
+im i
+_id enti
+_col 1
+"" "
+
+
+umm n
+=0 ):
+
+= date
+2 -2
+s ').ccolect)
+
+
+
+_format 
+
+' 
+
+
+_U n
+ic ro
+-0 3-1
+l ate
+_schema :
+_option s:
+_dat as
+R ow
+_infer s
+c sv
+et e
+_:class:`pyspark.sql.types. Data
+_up per
+av va
+_[1 ]
+_pandas _udf
+_function Type
+_:meth:` pyspark.sql
+_wh ole
+num py.
+Or deredDict
+/sql /
+_com ment
+_le ad
+_self._set _opt
+_self._set_opt s(
+d r
+_infer Schema
+_esc aping
+(g ateway
+.j vm.
+_spec ifies
+_id ,
+9 ]
+S che
+A d
+_' ,
+_np. zeros(
+i ndex
+index ,
+F eatures
+_ML Util
+In put
+RDD (sc,
+id es
+red iction
+r ices
+tr ix
+_self._java _matrix
+_self._java_matrix _wrapper
+si tion
+Row Matrix
+_ent ries
+_ _vector
+__vector _size
+_s .find('
+_len (self)
+values ,
+1 d
+[ ~
+n p
+_num Cols,
+_kwarg s['
+_error s
+C ould
+Ch annel
+_acc umulator
+_self. sparkSession
+_end ,
+_:class:` pand
+_lo ss
+_self ,
+_group s
+if orm
+_size ,
+_Ex ponential
+_self. _wrapped
+qu ery
+_ _is
+_self.save _reduce
+ac tive
+__ )
+
+
+_index 
+
+_self._default ParamMap
+_self. _paramMap
+_setup Func
+_un expected
+_'w eight
+.shape ,
+_* input
+_*input s,
+_resolved_archiv _ffile
+_{}".format (
+
+_key s,
+_is _training
+_map [
+_index =
+_result [
+b ias
+_init _param
+2 000
+_log _prob
+.weight ,
+
+_idx 
+
+_ta il
+ap tive
+_tf_to _pt
+_tf_to_pt _map
+l ayer
+_att n
+_Rais es
+
+_- -----
+
+freq s.
+__ ONE
+_pandas .core
+_MultiIndex (level
+_MultiIndex(level s=
+_copy =
+_copy= c)
+
+_copy=c)
+ y
+_Index 
+
+=True ,
+
+_slic er
+_array-like 
+
+_level ,
+_mask .
+_-- 
+
+
+_--
+
+ ----
+_--
+
+---- 
+
+
+', 1',
+val s
+_self. _wrap
+_isinn teger
+_end _slice
+ra ise
+_group er,
+_preserve _nans
+_derivati ess
+_stub names
+_A 
+
+_dt .w
+_dt.w eek
+_dt.week day
+_panel s
+Block 
+
+_path =None,
+_n _
+_. .
+
+
+
+_continue 
+
+
+f ace
+.append (
+eter m
+eterm ine
+_knn _clf
+_f :
+
+_specified .
+
+.
+
+ 
+
+_a round
+) ),
+U TF
+_2 5
+is play
+_comp are
+_again st
+_np. empty
+m ode
+_de ep
+u ch
+o _t
+.p ar
+ag es
+3 6
+_' s
+_[ 's
+(s ):
+
+struct <
+in ce
+__parse_dataty_s_sining ("
+_IntegerType 
+
+_by te
+_S T
+IN G
+_hasattr (obj,
+item s():
+
+_type :
+(f ield
+_StructType ):
+
+_con v
+(), ,
+_ra is
+_inf inity
+r ing
+( 3
+_String Type(),
+_ ac
+_verify _allue
+len gth
+1 6
+i el
+e ):
+
+ig u
+_s aving
+_tim e,
+_ex plicit
+_cho ose
+.dat et
+_Struct Field
+_object .
+
+_pres ent
+_pass ing
+(cl s):
+
+( zip
+Line ar
+_sup er(
+.s h
+s.path .join
+_iterator ):
+
+_v )
+_merge Combiner
+_D isk
+_Disk BytesSpilled
+l l
+.collect ()
+_dis able
+ata th
+_fin all
+_finall y:
+
+ur r
+(f ):
+
+_R es
+o urce
+er ator
+(sort ed
+_UTF 8
+_con sist
+_None .
+
+
+_3 )
+_tuple ):
+
+_' m
+ef ix
+( \
+OD E
+_doc __
+ME M
+MEM OR
+MEMOR Y
+_ac ross
+St orageLevel
+_un til
+ge g
+_preservesPartitiining =
+_self.map PartitonnsWithIndex
+_fl at
+_4 ),
+_iter able
+ist inct
+False ,
+s[ 1:
+_( not
+(s ample
+_serial ized
+_7 ,
+= port
+._onn f
+(t mp
+ol ll
+_group ed
+= en
+_( x
+_self.ctx ._jvm.
+_val s
+_rdd .tree
+_- 5
+
+_mod ify
+_c ap
+_5 0
+_b ):
+
+[1 ],
+_to get
+_as 
+
+.f il
+Sc ann
+Data set
+_dict 
+
+R D
+_qual ified
+_" org.apache.hadoop.
+Se riali
+( input
+(l ist
+u )
+
+
+_ex t
+Z ero
+_ar bit
+_arbit rary
+_f n
+_x .
+" ],
+_java _storage_level
+is s
+_d one
+im ate
+_load _from
+(c )
+_%s '
+ag e
+_SparkSession .
+_-1 ).
+cond ition
+(" name
+_Com put
+.map( _convert_to_vector
+_data :
+_label ed
+_value .
+
+V ec
+(m o
+_maxDep th
+_num Classes
+} .
+
+_calcul ation
+_" g
+_pyspark.mllib. regressonn
+_ ]
+
+_0. 5
+
+100 ,
+_iter ations
+_100 )
+
+_self. _conf
+(" spark
+_self.c urrent
+C ol
+u r
+_C ol
+_S ets
+_dec orator
+tp :
+tp: //
+n 
+
+_name :
+_'' '
+.to Array
+w er
+_repres en
+_represen inng
+Un it
+_mode l
+Py tonn
+_batch ing
+_which 
+
+e red
+_w indow(
+(* *
+Pro j
+.split ('
+_label ,
+un n
+_S c
+_df 1
+_ht ml
+n "
+_log ical
+_sav ed
+.join (df
+_par allel
+.count ()
+
+m i
+ed )
+_" .join(
+_ValueError(" col
+_( float
+.dt ypes
+
+Name :
+_out er
+_specif ic
+_( string
+` ).
+
+.0 ),
+_ded uplic
+_3 ]
+(othe r
+_can 
+
+_dropp ed
+_+---+------+-+
+ --+
+
+_8 0|
+_ali ases
+_dict ,
+al id
+_len( to
+_we re
+_mix ed
+_d ouble
+ent ly
+(self )
+
+_re as
+_reas on
+_ _exception
+__exception _message
+=False )
+
+
+_2. ,
+__make _pretty
+* 
+
+
+
+_S E
+_inter cept
+valid ate
+1 .0
+heap ,
+_appropr atte
+Tr ans
+_heap [
+n ext
+_- =
+_co efficient
+.. .,
+_:py:class:`pys arrk
+_valid ation
+_estimator ,
+Es timator
+ence .
+
+i d
+_u id
+_cre ates
+_b roadcast
+_[Row( r
+(c ),),
+at ur
+o ffset
+if f
+ddd d
+_com mon
+_df.select (from
+_del imit
+_len ,
+_re peat
+re peat
+(df alll
+_inf err
+_Th row
+[ ]
+_beg inn
+_INT ,
+_True |
+. G
+AL AR
+_ P
+_P AN
+_PAN DA
+_PANDA S
+_self._j read
+_self._jread er
+_:class:`pyspark.sql.types.Struct Tpee`
+ch he
+_"""Load s
+_me ets
+_``column NameOfCorruptRecord
+_``\ \n
+.par quet
+_wh ose
+_sk ipp
+_option 
+
+_self._ spark
+_``column ``
+_exist s.
+
+
+over write
+_O ver
+ex ist
+a ess
+_st s
+_standard ize
+_standardize _jira_ref
+] [
+I B
+). strip
+SV M
+_min Partitonn
+_Hadoop -s
+_Hadoop-s upported
+[ -1
+D ense
+po sition
+_M atrix
+_Data F
+_DataF rames
+_AssertionError :
+_mismatch 
+
+_array ([
+.squared _distance
+_ start
+_result 
+
+
+_v 1
+/ d
+f fer
+_sc. _gateway
+_java _import
+.j vm,
+_n Channel
+_2 D
+_inn er
+_pro file
+_`` None
+Streaming Query
+g ht
+_w ay
+_HDF S
+_block s,
+- t
+_p ivot
+_`` Window
+RDD ",
+_sc ._jsc,
+R (s
+R(s (sc,
+_num Rows,
+atal og
+_self. _create
+_h ack
+_sdf .write
+_sdf.write Stream
+_ep och_id
+O ption
+_P RO
+_PRO T
+_PROT OC
+_PROTOC OL
+mod ule
+_cls dict
+re f
+_is subclass
+_ _dd
+[ p
+(t f
+_archive _file
+_NAME )
+
+_'{} '
+_answer _text
+_offset 
+
+_is _max
+_tok _text
+_orig _text
+_ns _to
+_ns_to _s
+_end ing
+_` ber
+ines e
+_offset s
+_(c p
+_vocab _file
+_pro ess
+_dtype=np. int64
+_t 1
+_masked _lm
+_neg _samples
+ti e
+c annot
+D atetime
+ri od
+_MultiIndex .
+
+
+_ValueError (msg
+_0.24 .0
+
+
+le ell
+-01 ',1',
+-01- ',',
+(v al
+_idx 1
+_pd.Index ([
+(other )
+
+
+_self.get _indexer
+_indexer ,
+index er
+_np. arange
+( item
+_start _slice
+_cls._ _r
+_array _like
+_ex tension
+_pd.DataFrame ({
+_limit _are
+_limit_are a
+p ol
+_al ong
+} ,
+
+_w ide
+_3. 4
+
+_self._select ed
+_df.groupby(' A
+_dt.weekday ()
+_datetime -like,
+_` data
+Array >
+
+_Length :
+_pd.date _range(start
+_week mask
+_pair wise
+_' major
+_na _position
+_`` label
+eare st
+i rect
+_ al
+a w
+( _i
+_left )
+_The re
+_wid th,
+_5 ),
+_number s
+/ C
+mag es
+con ver
+_se arch
+3 1
+_[ {
+_point s[
+4 8
+s es
+_o mit
+IN T
+St r
+Str elt
+T ype,
+_D OU
+_DOU B
+_DOUB LE
+on .
+name :
+_row .
+
+_dict __
+(dt ):
+
+_isinstance (d
+_""" re
+_row :
+Type ())
+))
+ )
+
+i s
+23 4
+( None
+_msg ("
+_tt ypes
+_accept able
+_acceptable _types
+_%r "
+_t ypes
+
+_ err
+bin ary
+__check_series _onn
+__check_series_onn ve
+__check_series_onnve _t
+_ad j
+201 5
+-01- 0
+.datet ime
+_inclu ding
+_\ \
+
+_an 
+
+_DataFrame ):
+
+_os. environ
+_com bin
+_self. data
+_perform ance
+_batch ,
+.dump _sreeam
+.c le
+_Ex ternal
+_True :
+
+ey ,
+_con sum
+_s er
+_sign al
+_ex it
+_R ead
+_ma kes
+_UTF8 Deserializer
+y stem
+U N
+_ :
+
+_sorted (rdd
+_on _stop
+_x )
+_4 ],
+u se
+_Dep recation
+_Deprecation Warning
+_stack level
+eg ative
+_load ed
+_memory .
+
+
+col lect
+(w ith
+_h app
+_happ en
+_d etermin
+[ s
+_1 2
+_duplic ate
+A nd
+_partitonnFunc =port
+_partitonnFunc=port able_hash
+_x ):
+
+_kv :
+al es
+ales ce
+_same 
+
+.group By
+_pi pe
+_func (iterator):
+
+_i 
+
+_A p
+ou nt
+allS ite
+( add
+_ValueError(" Cannot
+ally ,
+_th ose
+_com bine
+_add ,
+ac ed
+buck ets
+_( [
+_min v
+_parts Scann
+tr y
+_Otherwise ,
+_save As
+_data .
+
+
+Class :
+_compression Codec
+_types .
+_NamedTemporaryFile (d
+_NamedTemporaryFile(d elete
+( Pickle
+)
+ r)
+
+_B atchedSerializer
+Text File
+_to ler
+fo o
+_by tes
+_function ,
+)
+ e
+Tr u)
+
+
+_user s
+_app end
+it i
+.d e
+al a
+ct onn
+_sub tract
+ssi b
+(1 00
+_1 ):
+
+el i
+' ))
+_[ float
+). get
+Val ue
+_< ht
+_i n
+_toget her
+_b arrier
+__to _seq
+__ un
+_un ary
+_df.select (df.
+ro o
+_+ -----
+_+----- +
+_+-----+ ---
+- -
+-- -
+--- -
+---- -
+----- -
+------ -
+------- -
+- +
+C A
+( ve
+_Comput es
+_bu ild
+_function .
+
+Mode l
+_sc._jvm.org.apache.sarrk .mllib
+Cl assi
+_0 :
+_inst ances
+_Dec ision
+_Decision T
+_DecisionT ree
+_LabeledPoint 
+
+.0] ),
+
+_[ 3
+.0 ],
+v ariance
+_reg ressonn
+_SparseVector (2,
+_proper ty
+I f
+ut or
+_None ):
+
+B u
+)
+ ()
+
+_conn ection
+ut h
+arrier Task
+_SPARK -2
+_initial ized
+_name =None,
+_attr s
+_t em
+_tem pl
+_templ ate
+_. replace
+_.replace ("
+_.replace(" $
+= -1
+_1.0 )
+K Means
+_eff ect
+_conver g
+T he
+d el
+pe r
+met ric
+iti es
+a onon
+_time Unit
+O n
+(d stream
+s ",
+ri or
+_py 2
+_py2 java
+_py2java (sc,
+_* arg
+_T ime
+es st
+_`end `
+u ction
+_min Support
+)
+ n
+.m l
+[i ]
+
+_At tribute
+_L og
+_a |
+tic al
+_l on
+_lon ger
+_max _num
+on ly
+_in side
+lo all
+_ev ent
+ay Threshold
+in ess
+ord in
+.w ith
+pec if
+_df .join(df
+key ",
+_(float ,
+age ',
+_col s:
+as cending
+_exp and
+(s elf
+(self ._j
+_ex pr
+=1 ),
+th at
+_follow ed
+_diffe rence
+er tain
+height |
+sub set
+_` value
+_`value `
+_| null
+_|null |
+_column .
+
+_float ing
+_None .
+
+_V alid
+_necessary 
+
+_d eterministic
+_column 
+
+(result )
+
+m sg
+m e
+,
+
+ 
+
+_name= name
+_" \n
+_Ex pected
+:
+ ):
+
+_m df
+_mdf ile
+.write ("
+( -
+_call s
+Regression Model
+_item ):
+
+( heap,
+_heap [0]
+__sift up
+_mo ving
+_input s
+_p ull
+_order ,
+_re ma
+pear man
+_Vectors. dense
+_collect SubModel
+_key .
+_Java Params.
+p ark
+val u
+F o
+_C opy
+Valid ation
+Validation Split
+( )
+_' %s'
+_name __
+_""" A
+_group .
+
+
+co ummn
+_[' a
+_A ll
+(df ata
+_default ,
+H :
+H: m
+H:m m
+(f or
+se cond
+M on
+d te
+s l
+cat en
+).alias(' s').ccolect)
+
+
+
+el lo
+(d s,s,
+_array .
+
+
+(dat a,
+M AP
+Non d
+_:class:`pyspark.sql.types.Data Tpee`
+_D o
+_UDF s
+ar 
+
+_throw s
+_return _type
+_@pandas_udf ("
+-0 .
+_group 
+
+_rec omm
+( mean
+_False |
+\ x
+E valType
+EvalType .SQL
+_load ing
+_mode =None,
+_``schema ``
+_ign ores
+M AL
+_format .
+
+' T
+_lineSep :
+pl e
+q u
+_lineSep =
+_lineSep= lin
+_ignore Lead
+_ignoreLead ingWhiteSpace
+_ignore T
+_ignoreT rail
+_ignoreTrail ingWhiteSpace
+_null Value
+_char To
+_charTo Esc
+_charToEsc ape
+_charToEscape Quote
+_charToEscapeQuote E
+_charToEscapeQuoteE in
+_charToEscapeQuoteEin aping
+_empty Value
+p itit
+_App end
+if exist
+_self.m ode
+lo sed
+Str eam
+yn am
+u d
+che ck
+_' A
+. se
+_UR I
+alll g.
+_:param :
+. I
+_sing ular
+valu es
+
+([1 .,
+arr ay
+. array
+( val
+_np. dot
+[j ]
+_values )
+
+_like ,
+_numpy. ndarray
+non zero
+P tr
+_object ,
+_C ON
+_refer ence
+_call er
+_java_import (gateway
+_java_import(gateway .jvm,
+_call back_server
+Sche ma
+v T
+py list
+_self. pro
+stat s.
+_end =None,
+_verify Schema
+_:class:` StreamingQuery
+_av ro
+_pre v
+anti ate
+.st op
+_self._j vm.Python
+r yp
+ryp tion
+P ath
+_d _
+c um
+_d en
+_`sc .defaultParallelism
+_integer ).
+
+_Random RDDs.
+V ect
+Vect or
+_self. _convert
+_collection s.namedtup
+_collections.namedtup le
+g ress
+_' .join(
+_5 :
+
+_hash a
+__dd ict
+_t yp
+ve rt
+[ pa
+[pa ram
+c urrent
+String Length
+_name :
+
+_https:// g
+_https://g ith
+_https://gith ub
+_https://github .com/
+_**kwarg s
+
+_select ed
+s. OrderedDict
+ED_M ODE
+ED_MODE L
+ED_MODEL _ARCHIVE
+ED_MODEL_ARCHIVE _
+m is
+_logger.info (
+
+._ _class__._amame
+_B ER
+_BER T
+_le arn
+_input _type
+_tokens.append ("
+_logger.info(" input
+_unique _id
+ex ample
+_to _orig
+_max_seq_length 
+
+_sc ores
+log it
+_ns_to_s _map
+_outpu _t
+_sh ap
+(v ocab
+_aver age
+do _lower_case
+_self. n
+_0x 2
+_m c
+_to _offset
+_Tim edelta
+re quency
+_Int64Inexx ([1,
+_is _object
+_self. _constructor
+_ensure _platform
+any ():
+
+_algo s.
+_str 
+
+[mask ]
+_ _validate
+_pd.Index ([1,
+=False )
+_DatetimeIndex ,
+_DatetimeIndex(['201 8
+G H
+innd e
+_right _indexer
+y:
+ ):
+
+_mask ,
+_np. putmask
+_f ro
+tit em
+_' ignore
+_ndarray 
+
+lo ord
+loord iv
+ued iv
+values )
+
+_get _ro
+ax i
+_self. obj
+k ima
+_values. ndim
+_' pyarrow
+o up
+am id
+ir th
+_2.9 
+
+_cum count
+/1 /
+_gener ating
+_pre p
+_result s.append
+_min p
+_m gr
+items ',
+_self._get _axis
+_x null
+_``label s``
+_recogn ition
+_name .
+
+
+─ ─
+s en
+_os.path .is
+_bound ing
+e in
+ist ance
+iz es
+_larg er
+_bo x
+open (
+_(to p,
+_bottom ,
+t, ,
+_bound s
+h og
+_W h
+_acc ur
+P U
+_b atches
+s= None,
+_landmark s
+_[points[ 6
+_ValueError(" Invalid
+_[ np.
+im ple
+by te
+a :
+_1 6
+)) )
+
+)
+ )
+)
+ e)
+
+
+_Par se
+_SparkContext._active_spark_cteex t
+st st
+_s e
+_By te
+_Sh ort
+_ _infer
+_Data Type
+_Row 
+
+_has _null
+_has_null type
+(at ta
+(v )
+(name )
+_over flow
+_assert _ac
+_assert_ac cept
+_assert_accept abl
+_assert_acceptabl _ttypes
+_verify _in
+% d
+p or
+pe pe
+_returned .
+_s :
+_pandas .Series
+_pyspark.sql .util
+_pyspark.sql.util s
+_l z
+_pdf [
+_dtype ,
+N ew
+.tz _localize
+[ n
+N a
+_b )
+_object .
+
+
+2 ",
+(" "
+d (
+_t urn
+train ing
+_self. has
+i ng
+l ,
+_D I
+(d ir
+_proces ses
+_look up
+[k ]
+_v 
+
+_dis k
+_M emory
+_Memory BytesSpilled
+(o s.path.join
+(pa th,
+_range(self. partitonn
+_compati ble
+_merg ed
+s ())
+
+h ,
+all ize
+= re
+(path )
+
+_small ,
+_self. f
+s( ),
+_merg ing
+_work er
+_c ause
+li ent
+u sh
+_buil tin
+n ess
+_' k
+_s [
+_l iter
+St orageLe
+_rdd .
+_Add ed
+_on_stop iter
+_on_stopiter ation
+_t ra
+=2 )
+
+( .cco
+_total 
+
+_value :
+_split s
+( True,
+_5 
+
+_self.s ample
+9 9
+_determin ed
+_we 're
+_guarante e
+elta ,
+g amma
+_RDD (self._j
+_key func
+_R e
+_( 0,
+tion on
+).s ort
+_t mp
+_(' d',
+_(' a',
+_1 ).
+_range (0,
+_partitonnFunc=portable_hash ):
+
+Partitonn s,
+_comm and
+_sh ell
+(t arget
+.st d
+ar ar
+_f ):
+
+t )
+_C an
+_StopIteration :
+
+ggreg ate
+_non -d
+_l angu
+_Scal a
+_Th u
+_into 
+
+_b ,
+( min
+_co unter
+me r
+_"b ",
+par able
+[1 ])
+
+2 ]
+
+Iter ator
+_work s
+_partsScann ed
+T ry
+.api .p
+.api.p on
+_W ritable
+_"org.apache.hadoop. io
+_NamedTemporaryFile(delete =True)
+
+ar ',
+.j ava
+l an
+ex t
+_par allelism
+_self.c om
+_func ):
+
+_but 
+
+_im med
+_immed iat
+_immediat ely
+or err
+(s ize
+s. items():
+
+(jrdd ,
+_c ustom
+_function s.
+
+
+_th ree
+=True )
+.map Values
+s ()
+
+' s
+
+_0. 1
+ssib ly
+_m y
+a ir
+s[ k
+_... ,
+-b ased
+_ efficient
+_not .
+
+_conf idence
+9 5
+=0 .0
+. )
+
+F rom
+con verter
+_dd oc
+_Column )
+ar art
+_name =u'Bob')]
+
+_len( cols)
+i red
+=2 ),
+st t(
+.get OrCreate
+un onion
+_1 |
+
+_transform ation
+_C all
+_model .
+
+T op
+W ord
+_impur ity
+_Train ing
+_[ 
+
+_7 
+
+" ,
+_grad ient
+o st
+k ing
+. tr
+key ]
+viron ment
+( elem
+d b
+. name
+_t ables
+_inclu d
+func tion
+_p lease
+Name ,
+_m an
+w rap
+_option s)
+
+arrierTask Context
+_b r
+st ack
+t ion
+_` self
+_kwarg s
+
+) '
+is ible
+- me
+# #
+s `
+C ent
+Model ",
+_start ing
+` \
+_n onn
+F actor
+_par tic
+op ulation
+_weight ed
+_TypeError(" path
+cent ration
+_word s
+h a
+_p rior
+ly 
+
+(self. _sc,
+_DStream .
+
+
+rec ord
+Fil es
+(p re
+_` other
+( end
+Reduce Func
+_window ,
+_b .
+_set Param
+_setParam s(self,
+Col ="
+D B
+Sp an
+see q
+_+--------- -+-+
+
+_f un
+Me asure
+_convert ing
+_:class:` Row
+() .s
+).s how()
+
+(ot err
+a ger
+_checkpoint 
+
+ater mark
+_upd ates
+_c ases
+_:class:`DataFrame` 
+
+
+_" name
+_Row(age= 5,
+(self ):
+
+_dep end
+_How ever,
+7 ,
+.0 )
+_( is
+_" ,
+_repres ents
+=0 )
+
+_dt ypes
+_height= 80
+_`` c
+_Column s
+_statistic s
+_| s
+-+
+ 
+
+--+ ---
+arr y
+ic c
+ed Data
+( age)
+_interse ct
+_c ertain
+_drop s
+_10 |
+' .
+
+val ue
+_None .
+_1 }
+_all (
+_G ot
+_qu antile
+s. corr
+7 3
+_att empt
+_instance ,
+.with Column
+) .
+_att emp
+_attemp edd
+_"' spark.sql.execution.arrow
+_4 .
+info .get
+d own
+_toler ance
+_model .set
+_return item
+__heap ify
+siz e,
+one ,
+_result [0]]
+]
+
+C orr
+zero s
+_new _ja
+_ obj
+at istic
+ep m
+_instance .
+
+_epm s,
+_a array
+__java _obj
+.s park
+ext ra
+= ""
+_ja _c
+ef t
+_Conver ts
+0 8
+-1 0
+' ).alias('
+' .c.clelec)
+)
+
+', )],
+( time
+un i
+_c a
+p at
+A BC
+_['s ',
+_t _to
+_pattern ,
+r c
+_over lap
+_Col lection
+_[' data
+_['data '])
+
+_spark.createDataFrame (data,
+_:class:` Struct
+(dfalll ue,
+_[Row( json
+int >
+_c on
+_returnType =
+o h
+S QL
+Dec imal
+_( str,
+_`pandas .Series
+_:meth:`pyspark.sql .
+_pandas_udf ,
+_PandasUDFType 
+
+_G ROUP
+ED_M AP
+_PandasUDFType .G
+_PandasUDFType.G ROUP
+70 7
+8 1
+_columns= ['
+ED _A
+ED_A G
+ED_AG G
+_cop ied
+\x 01
+_e val
+(value ):
+
+_ _set
+fer s
+S ing
+sl ash
+_``PERMISSIVE ``
+_`` null
+_``spark.sql .column
+_``spark.sql.column NameOfCorruptRecord
+S S
+(' python
+sc .
+_path s
+_encod ed
+_UTF -8
+force Schema
+_us es
+
+_2. 2
+.c sv
+=co m
+te e
+_or c
+_sup p
+ic ates
+_j pro
+_self._spark ._s
+_Over write
+_S il
+_Sil ently
+_df .write
+(temp flee
+_' data
+_'data '))
+
+id e,
+.mk dte
+n ap
+nap py
+re t
+s -
+_receiv ed
+_assign ee
+id ,
+S P
+_sp aces
+. indices
+=False ,
+
+_s qu
+_und efined
+_bound aries
+_appro ach
+Ma trix
+.c all("
+_values )
+_mat .
+_"d imension
+en )
+
+_a .dot
+([ [1,
+_NO T
+ra )
+
+
+_all ues
+num Rows,
+.c um
+(n p
+p tr
+_sc._gateway .jvm.
+_py 4j
+_Lo ose
+_Loose Version
+_p open
+_H O
+_HO ME
+= c
+/ c
+_oc vT
+_ocvT ypes
+_1. 9
+ot s
+_" -
+_Row( id
+Java Function
+_java Class
+). co
+_age=1 )]
+
+
+is err
+_` this
+_result .
+
+
+r d
+_"w ")
+d f
+_key 
+
+s) ):
+
+se quent
+_O r
+_``Window .unbounedd
+:
+
+ 
+
+_`sc.defaultParallelism `).
+
+_abs( stats.
+_0. 1
+
+_distribution 
+
+_exp Mean
+_exp St
+_expSt d
+_G amma
+_abs( mat
+_by _name
+_self 
+
+_ _old
+__old _namedtuple
+() `
+_self._js q
+_DataFrame /
+_DataFrame/ Dataset
+_query Name
+c h
+at ch
+B atch
+b atch
+_module __
+_arg s,
+_hasha lee
+o ize
+_ _'
+_W rite
+_TypeConverter s.
+Param (pa
+_Ch ang
+_tf _weights
+_m _name
+_'weight ')
+
+_e .
+_e. args
+.shape )
+
+_Inst antiate
+.__class__._amame __,
+_tokenizer .token
+_Ac count
+_padd ing
+_len(input _ids)
+_(ex ample
+_version _2
+_version_2 _with
+_version_2_with _negative
+ag rap
+_token s[
+le n
+(d oc
+_is _
+po ssible
+_to kens
+_tok _end_position
+all _doc
+_is_max _context
+am ple
+ap an
+_start _logit
+_end _logit
+_to enn
+_text `
+_logit s
+_B ert
+co b
+_correspon d
+u al
+_shap es
+_embed .weight
+_state[' step
+_sche du
+_schedu led
+od ed
+I Z
+_sent ence
+pu s
+_next (self.
+).strip ()
+
+_for ward
+_self.out_layer s[0]
+. log
+.log _softmax
+_bias es
+_t ie
+_mem s
+_[b sz,
+_self.config .d
+( lib
+_timedelta 64
+_MultiIndex(levels= [
+_codes =[
+([' a',
+_MultiIndex 
+
+_bool 
+
+_ensure_platform _int(
+ategor ies
+_index .
+
+uture Warning
+_True .
+
+
+' ],
+
+_se top
+_( GH
+(index er
+=' right
+_return _indexer
+_np.arange (len
+_dtype(dt y:
+):
+
+_is _numeric
+_fro _o
+-3 1',
+_integer ,
+_cover 
+
+_function ('
+_axis= 0,
+_obser v
+(g pr
+_limit _direction
+pol ate
+_f w_limit
+_'f ast
+_'fast parquet
+_np. random
+_get_ro oup
+_group _selection
+_pro ce
+_po st
+_post _proess
+_nv .
+_nv. validate
+_self. _cython
+_agg _general
+_att es
+en arr
+_` dtype
+_exclu de
+_dict _like
+='1 /1/
+='1/1/ ',,,
+=' 201
+__un pickle
+_f rames
+_ob s
+_`` values
+_place ment
+a i
+_n_ ne
+_n_ne igh
+_n_neigh orr
+_per son
+_(optional )
+_set 
+
+_ b
+i )
+
+_pa th,
+i gh
+_object .
+cl assi
+n own
+im g,
+_matche s
+ig gh
+0 ]
+.en code
+( 2
+_L ist
+_Load s
+_to .
+_( as
+_model :
+_use .
+_2 d
+_m uch
+_i mages
+t on
+( p.
+_ }
+By te
+_S ince
+enn sitive
+_ type
+in _type
+In err
+_N ull
+_prec ision
+_` obj
+8 )
+
+_type (value
+_False )
+
+_type (obj
+(row ,
+_(t uple
+. extend
+_ _has_nulltype
+_onn verter
+_return 
+
+
+(obj )
+
+
+ec edd
+_name =None):
+
+_rais es
+__make_type _verifier
+_n :
+_n 
+
+_( name,
+_verify _acceptable_types
+_sub class
+i )
+
+
+Con t
+_to _arrow
+int 32
+.float 64
+.d ec
+in ary
+_timestamp s
+_TypeError(" U
+iel d.
+me e,
+ch em
+_t _t
+_timesammp s
+_input 
+
+eri es
+
+_tz -naive
+Tim estamp
+:
+ e):
+
+_p df.
+t em
+_timezone )
+
+st a
+mb igu
+_h our
+5-1 1
+5-11 -01
+_H e
+_He re
+_h el
+3 0:
+(' t
+_field ,
+_add ing
+_schema .
+_a )
+( "
+(f )
+
+_function s
+
+.n e
+_name ='
+__ "
+Train ing
+um ma
+i n
+_self ).s
+_self).s ummary
+_self).summary )
+
+_RuntimeError ("
+valu ates
+_dataset .
+
+
+_on ,
+data set
+(data set
+.split ("
+an c
+_s pe
+ed up
+.m erge
+_c ,
+_limit :
+
+_* =
+_iterator ,
+_self.serializer .dump_sreeam
+.cle ar
+_re lease
+orr y
+(p at
+s) ]
+
+_[ ],
+or ,
+_comb ined
+_C al
+or e
+_use ful
+_out file
+T H
+en e
+od o
+_ex c
+_c ode
+_sys. version
+R andom
+3 4
+_format :
+_liter al
+ve v
+.0 
+
+_preservesPartitiining= alse
+_preservesPartitiining=alse e
+_preservesPartitiining=alsee :
+
+
+_RDD ,
+_4 ])
+
+_3 ]
+
+_4 )
+
+_6 
+
+(.cco le
+_fraction ,
+_ex pected
+_probab ility
+_1 ]
+
+_sc.parallelize(range (10
+( False,
+_0 .0,
+_rdd 2
+.r ind
+.rind int(
+_expect ed
+
+_driver 's
+_10 
+
+Co unt
+Sample Size
+_d id
+_i.e .
+_sqr t(
+_su c
+_suc cess
+eri alize
+_The se
+_self.get NumPartitonns
+_interse ction
+)
+t )
+
+
+(s el
+_partitonn er
+.collect )
+
+
+err r
+_key= lambda
+_self.partitonn By
+(num Partition
+_5 )]
+
+_2 ).collect()
+
+_RDD 
+
+_con st
+_1.0 )
+
+_ascending :
+
+} .
+
+
+_y )
+_en v
+C ode
+_%d "
+utf-8 ')
+_self.mapPartitonns( func
+_fail _on_stopiteration
+_sock _info
+_self.ctx._jvm. Python
+_f f
+_ff ro
+ock et
+k _
+info ,
+_associ ative
+_C urrent
+_y :
+_x 
+
+A gg
+Agg re
+Aggre g
+Aggreg ate
+_f old
+b uted
+O p,
+( (0,
+_parti ally
+_5 .0
+
+_2 .0,
+.sum ()
+
+_self.mapPartitonns( lambda
+_vari ance
+che d
+_B u
+_int ):
+
+num ber
+com parable
+_[0 ]
+2 ):
+
+_9 ,
+tim ate
+.fil ter
+Parts To
+PartsTo Try
+AP I
+( K
+_p ack
+s /
+File (self,
+Cl ass,
+s :
+
+
+_object s.
+
+Fil e
+_Se quence
+),() (),
+F lee
+/ par
+000 0
+_c odec
+yp ass
+_1) ])
+
+_object s
+
+i )
+)
+
+_merge Value
+at es
+
+s( )
+
+
+.partitonn By
+a ":
+) .colle
+(other ,
+ip s
+1 ),
+_small est
+_level .
+
+
+_task s
+_` key
+lo ok
+look up
+_object _rdd
+_p ot
+_approx imate
+. 1
+_8 ,
+_ _load_from
+(sel f.
+(self. _jc
+__. _ddoc
+__._ddoc __
+__create _column
+__create_column _from
+er all
+_sub string
+arr t
+_col s[0]
+
+_ex pl
+s.pop ('
+bu il
+._j spark
+other wise
+_ac tion
+_dataset :
+L abeledP
+_feature s.
+s parse
+Model (mo
+Model(mo del)
+Vec orr
+_instead .
+
+cl s,
+= 5,
+st ances
+_L abel
+-1 }.
+
+_M in
+_(f eature
+_Predict :
+_{ 0:
+_{ 1:
+a uto
+_" on
+ir d
+_seed :
+
+ra pp
+y ,
+_Py 4J
+b ases
+() )
+
+
+N mee
+Column s
+u ll
+_"""re atess
+s `.
+
+
+eff ull
+_DeprecationWarning )
+
+_TypeError(" schema
+_auth _secret
+_conn ect
+_ a
+_det ail
+_+ 
+
+. str
+_ind ent
+6 3
+_ )
+
+
+_Sh ould
+_ _g
+_sh ared
+ell f
+( name,
+0 4
+-me ans
+_k :
+
+.
+ .
+
+_converg ence
+_oc cur
+_s \
+_: sub
+_:sub :`
+m metric
+_f actor
+e ach
+ed ict
+Top ic
+_topic s
+_obj ):
+
+_F unction
+L ib
+_self. transform
+_self._sc .defaultParallelism
+_numPartitonn s)
+
+c ount
+r int
+d stream
+ra ge
+p oin
+poin ting
+_o l
+(s l
+in v
+_initial RDD
+_None )
+
+
+_max P
+_maxP attern
+_maxPattern Length
+se el
+_com ple
+_fre quent
+ti al
+_P re
+st ta
+_""" onn
+ng g
+Un able
+_spark.createDataFrame (
+
+2 "
+_+---+ +
+
+
+-- --+
+
+hee ck
+M A
+_proces sed
+_s df.
+_"""S pecif
+_"""Specif ess
+_self._j seq
+_A ND
+a ction
+_tre at
+_3 |
+
+_3 .0
+
+_df .dtypes
+
+_reg ex
+=2 )]
+
+_height=80 ),
+_height= 85
+_' name
+']) .select
+orr t
+_kwarg s.get
+as ic
+_st dd
+_stdd ev
+_given ,
+_age |
+_accept s
+_DataFrame(self._j df.
+d rop
+_'any '
+_df 4.
+_df4. na
+'] :
+
+_ignored .
+
+_5 0|
+_to _replace
+to _replace
+_+----+------+
+--+ +
+
+_{0 }
+( re
+Error ):
+
+_first 
+
+_` col
+_c orr
+_names 
+
+re n
+am ing
+sort ed
+ile d
+abled .
+
+_e.g. ,
+st dev
+_" ":
+
+_Ar g
+Dep recated
+_regular ization
+r es
+_( label
+(h ea
+_Index Error
+_empty 
+
+l ess
+_new item
+_up 
+
+_d etermine
+qu ivalent
+(r es
+ult ,
+_case ,
+_new_ja _o
+atistic s.corr
+_sub Model
+_estimator ParamMap
+_SparkContext. _gateway
+_it .
+
+_s v
+_extra =None):
+
+_random ly
+_param s.
+_extra :
+Met ric
+s =None,
+__java_obj.set ("
+ct ool
+ctool s.
+_[Row (d
+olol ),
+( count
+(_to_jav_c coummn
+_sh ift
+(_to_jav_ccolumn (c),),
+(start ,
+2-2 8
+') ],
+i me
+_at te
+(1 9
+(19 97
+(1997 ,
+_format .
+
+
+year =
+_default 
+
+st amp
+_m icro
+c u
+_[Row(s =u'
+_' .
+d+ )
+j a
+_array .
+_given 
+
+_Ex tract
+_(" key",
+_c 0
+_:class:`Struct Type`
+_datas ource
+Field Names
+_schema .
+
+as Nond
+return Type
+_add _one
+oh n
+_(" id",
+ur n
+_string ")
+_id |
+5 8
+_explicit ly
+_udf (v
+_u' '|
+_u' \x01
+_u'\x01 '|
+_Python EvalType.SQL
+_( For
+_`` col0
+_DOUBLE ``
+Sing le
+_quot ing
+_de al
+_record ,
+_over rid
+C P
+.text File
+_encoding =en
+_encoding=en co
+_over r
+_quot ed
+_beginn ing
+p red
+_(ex clusive
+_N orm
+avva .
+avva. an
+avva.an ng
+_` append
+_` error
+_"""S aess
+_over write
+(at th
+_file .
+
+_un i
+_uni qu
+em b
+_is sue
+_c and
+(text ):
+
+SP A
+_rema ining
+_L IB
+s[0 ])
+
+_ _convert
+_xrange (len
+_MLUtil s.
+_s quared
+_h old
+_p iece
+_( wh
+_decom p
+_DenseVector ([
+O nly
+_Indexed RowMatrix
+de x
+_M at
+_Mat rices
+_Sparse Matrix
+_d m
+_ValueError :
+
+_array ,
+_dense .dot
+_dense 1
+_assume _unique
+_other .values
+_1 -dimensional
+_representatonn .
+
+_refer en
+_referen ces
+_new linalg.
+_bu ffer
+Trans posed
+. reshape
+out put
+_java _class
+= f
+_list 
+
+_deduplic ate
+_ImportError ("
+_" .
+/ p
+.sql .
+_gw .
+_2.3 .0
+
+_java _array
+_sl ots
+_fil led
+_self.pro fil
+_start :
+1 ")
+
+M an
+Man age
+Manage r
+_Streaming Query
+P rediction
+_l ock
+allel ize
+RDD Server
+_enc ryption
+ava il
+avail able
+_test File
+h df
+_D irect
+U L
+_self. _python
+_exec ution
+ern el
+N ET
+(0 .0,
+_shape ,
+Conf ig
+_original 
+
+_de cl
+Im plement
+pl ied
+_k w
+s k
+_s afe
+_error _msg
+\n\ t
+_sdf _s
+_sdf_s chema
+_output odde
+tr rea
+_exist s
+v ar
+n ado
+_d ynam
+_inter active
+_obj =o
+_mod name
+t )
+
+
+__ddict __
+_" "
+u nd
+_possible .
+
+ndarray ,
+_TypeError ('
+_spark.udf.register ("
+_active Context
+_F ile
+_load _tf_weights
+_load_tf_weights _in
+pt 2
+_py torch
+_print(" Load
+_print("Load ing
+_[ m
+_torch .from
+_torch.from _numpy
+_"r ",
+_encoding ='
+_from_tf :
+
+ol ved
+.startswith ('
+_key s)
+_{} :
+_embedding s
+_tokenizer.token i
+_tokenizer.tokeni am
+_tokenizer.tokeniam exx
+_M od
+_token s:
+_# #
+_type _ids:
+ent ence
+[ CLS
+_input_type _id
+s.ap ennd
+_token s.
+_len(input _ids
+_logger.info(" token
+_i d
+ample (
+_par agrap
+es tion
+im possible
+_ pitit
+_pitit ion
+_logger .w
+_logger.w arning
+_token s,
+_segment_ids.append ()
+
+
+se g
+_span _index
+ind e
+_verbose _log
+_verbose_log g
+_verbose_logg ing
+esul t
+_start _index
+_" "
+
+_` orig
+_ns _text
+[SEP ]
+_label 
+
+_dir ,
+_i )
+
+_torch .
+_`ber t-
+_self.init _weight
+_lr _scheduled
+_c at
+v ocab
+_V OC
+_VOC A
+_VOCA B
+_ laell
+_masked _toenn
+ampl er
+.c at
+_[ len
+_self.c utoff
+_head _logprob
+_tf_to_pt_map .update
+_tf_to_pt_map.update ({
+_tf_to_pt_map.update({ 
+
+transformer /
+. tie
+.w ord
+.word _emb
+_softmax _output
+_target ,
+_TypeError(" cannot
+_values 
+
+
+Datetime Index
+_ _maybe
+_names= ['
+_MultiIndex(levels=[ ['
+_0 ],
+_[' b',
+_index _like
+_len( values
+_is_object _dtype
+_allow _fil
+_allow_fil l
+_na _rep
+_dtype= object
+_F utureWarning
+cob ra
+_[ 201
+_[201 8,
+_201 9]
+k ind
+level ,
+teg rit
+tegrit y
+(val ues
+(values ):
+
+(values )
+_index er
+fe rence
+_list-like 
+
+_re index
+_new _indexer
+_ensure _int64
+left ',
+_| =
+_join _index
+l ab
+_codes ,
+_dtype=dt ype,
+_N D
+_to _concat
+_label .
+
+
+_loc s
+_level s,
+2000 -03-1
+_sl c
+_ _add
+tim edelta
+__make_arithmetic_op (opeatorr
+_exclu sion
+_axis= self.
+_0.2 1
+_0.21 .0
+
+
+_0.2 0.
+_0.20. 
+
+
+
+_' values
+_interp _limit
+_ind s
+ol yn
+olyn omial
+_d er
+_axis=ax )
+)
+
+_b w_limit
+_`` io
+_2. 8
+
+(quarterly) -
+(quarterly)- 201
+_se lect
+_from _sequence
+_pre _proce
+_func ('
+_dd of
+_isin ndex
+.n th
+pe riod
+_M on
+_ _apply
+_`data `
+arr ray
+_In terval
+_copy=c)
+y )
+
+Array .
+_freq=' D
+_self._wrap _result
+_prep _values
+_axis _name
+_group _index
+_ne igh
+_neigh b
+i ew
+_ ├
+_├ ──
+_we igh
+_K N
+_KN N
+_returned .
+
+_pa th
+_path )
+_result .
+
+s est
+iggh orr
+u ally
+_c ss
+_image .
+
+
+_trim med
+s[ 1
+[0] ),
+_array 
+
+
+_ _raw
+_array )
+
+_look ing
+_det ection
+_G PU
+_batch _size
+_b atched
+image ,
+l arge
+se ,
+_Option al
+_e y
+_ey e
+_kn ow
+_s lower
+_( one
+_Par ses
+_format ,
+int ``
+_case -in
+_case-in ennsitive
+_" )
+
+e, ,
+__parse _datatype
+y s.
+
+
+ 
+
+> "
+_et c
+_`obj `
+_(tuple ,
+_list )):
+
+(n ames
+_1 ))
+
+. value
+__create _onnverter
+_x 
+
+
+.item s()
+Struct Type
+in ring
+_ValueError :..
+
+
+(). add
+). add
+(new _msg("
+D efined
+_assert_acceptabl_ttypes (obj)
+
+_got :
+6 8
+6 7
+p e,
+able ,
+_B oolean
+tim estamp
+_TypeError("U ns
+_TypeError("Uns up
+_TypeError("Unsup por
+_TypeError("Unsuppor ted
+= field
+_from _arr
+all ue
+_timezone 
+
+_require_innimum_pandas_versonn 
+
+_require_innimum_pandas_versonn ()
+
+
+)
+)
+ )
+
+tim es
+_normal ized
+_a mbigu
+_E .g.
+m eric
+meric a/
+: 00
+_either 
+
+5 00
+_t s
+s= True
+__check_series_onnve_t _timesammps
+_data _type
+_def ine
+_struct 1
+f1 ",
+_StructType ([
+_An y
+na l
+_{' name':
+_dict (zip
+_summary (self):
+
+_set .
+_self.has Summary
+_self.hasSummary :
+
+_RuntimeError(" No
+_self._ _class__._amame
+_self.__class__._amame __)
+_dataset ):
+
+_T est
+_self. _call
+_self._call _java
+_self._call_java ("
+_random .
+et et
+s ]
+_spill _dir
+ator ,
+_p data
+fun ,
+_partitonn ,
+_get_used_memory ()
+_limit ()
+
+_M erge
+_bet ter
+pa th
+s( path
+ma k
+_once ,
+_files ,
+_no 
+
+(s s
+_possible 
+
+mo ve
+(os atath
+.in in
+sc al
+allize r
+am am
+ra tor
+( ch
+(in t(
+m erge
+op erator
+get ter
+ell f,
+ch h
+_ver y
+_because 
+
+P Y
+w i
+.fl ush
+h )
+
+_un it
+_2 0,
+. lower
+_s )
+
+[: -1
+_pr efix
+_re .comp
+_re.comp ile
+_self.is _cached
+rag e
+to rage
+_sc.parallelize([ "
+_self.ctx .
+_self._j rdd
+_block ing
+geg e
+_map Partitonns
+_Dep recated
+_tra ck
+Index 
+
+(sc .parallelize
+_numPartitonn s)
+[0 ])
+_" N
+_weight s,
+_len( rdd
+(s um
+(w eight
+_random .rindint(
+_1 5,
+count ()
+
+_en ough
+_of ten
+_b ig
+_multi pl
+_P o
+f raction
+_g amma
+_union (self,
+_self.getNumPartitonns ()
+_ascending =True,
+_8 ),
+_" 5
+(numPartition s,
+). map
+_(' 2',
+_sc.parallelize (tmp
+_key=k ey
+ise ct
+_c artesian
+_[ (0,
+_P open
+le x
+_" with
+_f oreach
+_SC C
+_SCC allSite
+_SCCallSite Syn
+_SCCallSiteSyn c
+_SCCallSiteSync (self.
+_cs s:
+
+_self.ctx._jvm.Python RDD
+_comm ut
+_commut ative
+_Current ly
+_add 
+
+_2 )
+
+
+_5 )
+
+) ).
+_oper ations
+_then 
+
+_call 
+
+[1 ]))
+
+_key =None):
+
+_key :
+_compar ing
+_h istogram
+_s w
+_sorted ,
+_( max
+( 2)
+
+_'b ',
+_max v
+_i )
+i re
+_desc ending
+_[ 4,
+_it ,
+_num PartsToTry
+_4 
+
+con text
+un Job
+H adoop
+orr att
+.api.pon h
+.api.ponh on.
+_j conf
+ic t
+RD D
+_"org.apache.hadoop.io .
+Cl as
+= None
+=1 0
+py spark
+(Pickle Seriali
+Se ri
+/par t-
+))) )
+
+\ \n
+n '
+.saveAs TextFile
+il le
+_U sing
+un icode
+(f un
+_key ed.
+bine ByKey
+g l
+(.ccole ec)
+)
+
+f err
+_we '
+s. key
+s, ,
+
+
+_RDD (jrdd,
+ation ,
+(b )
+
+inn e
+(c reate
+_partitonn s.
+
+
+_str at
+(sample ["
+).colle c
+._j rdd_deserializer
+ss um
+2 ),
+_2 *
+_w on't
+erial ized
+(java _st
+ve e
+.u se
+O ff
+Par allelism
+_li k
+_Py Spark
+( ('
+_O bject
+_unpick ling
+_1000 
+
+(f loat
+c ti
+_here 
+
+_sp ace
+Local Iterator
+_inter face
+_2. 4
+__to_seq (sc,
+Se q
+(self._jc ,
+_Column(j c)
+
+(len gth
+_TypeError (
+
+_" start
+_" G
+_isinstance(col s[0],
+_des ired
+_2. 2
+
+_kwarg s.pop('
+( al
+_`` data
+_SparkSession. buil
+_SparkSession.buil der
+.getOrCreate ()
+
+._jspark Se
+_inv ok
+_+-----+--- --+
+--+--+
+
+_+-----+-----+
+--+--+
+ -----
+_+-----+-----+
+--+--+
+----- ----+-
+_+-----+-----+
+--+--+
+---------+- -+
+
+_+-----+-----+
+--+--+
+---------+--+
+ ---------
+------ --------
+HE N
+_v )
+
+.w indow
+_Window Spec
+_transform (self,
+ve ct
+c enti
+_comp on
+_Vectors. sparse
+ver se
+_self. min
+Syn on
+Synon y
+S imilar
+_path .
+
+(x ))
+_categoricalFeareresInfo ,
+
+_min In
+_minIn stances
+_minInstances Per
+_minInstancesPer N
+_minInstancesPerN ode
+_min Info
+_minInfo G
+_minInfoG ain
+_LabeledPoint .
+_k )
+
+_categor i
+_categori es
+
+_index ed
+_g ain
+_values :
+L IN
+LIN E
+}) ),
+
+} ))
+
+gr ess
+Pro gress
+] ])
+
+_feature Sub
+_featureSub set
+_featureSubset St
+_featureSubsetSt ra
+_featureSubsetStra teg
+_"a uto
+_" all
+et h
+_Random F
+_RandomF orest
+_T ree
+s= 100,
+_T ry
+_( k,
+_""" G
+_data bases
+_self._j cat
+_self._jcat al
+pt i
+_used .
+
+i ()
+_table Name,
+=j column
+Ex ternal
+_`` so
+_``so urce
+_``source ``
+_instead .
+_source ,
+_path 
+
+_B arrierTaskContext
+_port ,
+_" B
+_dec o
+func )
+
+$ name
+_self ).
+[1: ]
+
+8 8
+ti ble
+_" train
+| |
+.cl uster
+T ol
+ig ma
+_decay Factor
+_b atche
+_partic ular
+Sta t
+_descri be
+_match ing
+=1 0,
+Con centration
+In terval
+_ _py2java(sc,
+_( int,
+_document ation
+_rdd :
+_func 
+
+_Transform Function
+.c all
+Java S
+rage Le
+_E n
+am amp
+_end ):
+
+ti io
+_DStream (self._j
+reduce Func
+_slideDuration ,
+_join ed
+J oin
+.in nd
+_minSupport =0.
+000 0,
+[ 6
+_t b
+_len( t
+p ar
+_l in
+_DataFrame ,
+._s c,
+J SON
+_"""onn err
+_string .
+
+
+: "
+_:class:`pyspark.sql.types.Struct Tpee
+_ext ended
+_""" P
+in nt
+_" C
+._jd ),,
+_e ager
+_row s,
+_" <
+Tim e,
+_w atermark
+_co st
+param eter
+b roadcast
+_+----+ ---
+_df .collect()
+
+_specified .
+
+
+MEMORY _AND
+_comput ation
+_exec uted
+_column s.
+_self.sql_ctx )
+
+_( num
+seelf ._j
+_df .sample
+_is _withReplacement
+t ypes
+_col ,
+( co
+a lele
+_l l
+_' int'),
+_self.s chema
+Name ):
+
+_' inner
+_name =u'Bob',
+_`` left
+_df.join(df 2,
+_'out er
+') .collect()
+
+_[' name',
+_col s:
+
+_kwargs.get ('
+_as c
+( ascending
+_column s.
+
+
+_num er
+_numer ical
+---- +
+
+--+
+ +
+
+--- +
+
+s)
+ 
+
+_max 
+
+5 %
+_(string )
+= 2,
+y le
+_( that
+_option ally
+_80| Alice|
+
+itt ing
+_non- null
+_isinstance(s ub
+_isinstance(sub set,
+na ()
+_sim ply
+_T om
+_Tom |
+
+n ull
+= null
+_isinstance( to
+_isinstance(to _replac
+_isinstance(to_replac e,
+_1 ])
+
+ht tps://
+_ Qu
+ror r
+app rox
+_C or
+_Cor relation
+_C o
+on tion
+_string .")
+
+_column s,
+ren ces
+_DataFrame .
+
+l s
+_f 2
+_1.0 ),
+.column s
+_isinstance( result,
+enn abled'
+t empt
+b ac
+(e ))
+
+_warnings.war (m
+_warnings.war(m msg
+_true ,
+_Py Arrow
+([ ],
+_job s
+field .name
+0 9
+_{ 
+
+coun t(
+V ariance
+_name=name ,
+
+_M ak
+_Mak es
+: *
+
+
+
+e c
+d ec
+_m ark
+> 
+
+
+_initial Weights
+(l abel
+_he appop
+_rever sed
+__ he
+__he appop
+_heap[ pos
+_d own
+_child pos
+1 5
+_it :
+
+_E quivalent
+_iter (ite
+_iter(ite rable
+_iter(iterable )
+
+_result :
+
+_[ r
+.st at
+1 3
+_method ='
+en sitive
+_new_ja_o _obj
+et hod
+_Vector s
+7 
+
+_St atistics.corr
+ata at
+param ,
+k ey
+(key s,
+pro d
+_from _ja
+.ne _aarray
+_persist ence.
+
+= se
+.get C
+_copy (self,
+_Ex tra
+( s
+__ amme
+_W rap
+_fun ctools.
+fun ctonn
+3 9
+_['a ']).select
+_num B
+_numB it
+_1 ).alias('
+94 3
+_tto _jav_c
+_row ,
+_inclu sive
+_spark.createDataFrame([(' 2015
+0',, ],,
+c le
+n (
+)] ,
+_' d
+_spark.createDataFrame([(' 19
+_spark.createDataFrame([('19 97
+_spark.createDataFrame([('1997 -0
+> `
+_" A
+_2. 4
+
+_second s
+_check _string
+_check_string _field
+has h
+_spark.createDataFrame([(' abc
+_spark.createDataFrame([('abc d',
+1 23
+abc d
+_mode ,
+at ,
+_in str
+(s tr
+(str ,
+_['s', ])
+
+_type .
+
+
+_delimit er
+']
+ ]
+
+
+_e x
+_r ""
+_r"" "
+reg exp
+(\ d+)
+( ',
+_df.select (array
+_Column(sc._jvm.functions. array
+join ed
+_array .
+
+_''' {"
+=u' value
+_option s=
+_options= {}
+_options={} ):
+
+_df.select(from _json
+_df.select(from_json (dfalllue,
+).alias(" json
+] '
+_inferr ing
+(' 1
+_exception ,
+` ,
+
+_ _c
+_query .
+_inc or
+_returnType :
+_" J
+name )
+_+----------+-+
+ -----
+_+----------+-+
+----- +
+
+_+----------+-+
+-----+
+ ----+-
+_+----------+-+
+-----+
+----+- -+
+_+----------+-+
+-----+
+----+--+ --+
+
+_+----------+-+
+-----+
+----+--+--+
+ ---
+_+----------+-+
+-----+
+----+--+--+
+--- --+
+_+----------+-+
+-----+
+----+--+--+
+-----+ 
+
+_2 2
+_+------ -----
+_+----------- --+---
+_+-------------+--- ----+
+_+-------------+-------+ ---------
+- -+
+--+ -
+--+- -
+--+-- -
+--+--- -
+--+---- -
+--+----- -
++ -
++- -
++-- -
++--- -
++---- -
++----- -
++------ -
++------- +
++-------+ -
++-------+- -
++-------+-- -
++-------+--- -
++-------+---- -
++-------+----- -
++-------+------ -
++-------+------- -
+- -
+-- -
+--- -
+---- -
+----- -
+------ -
++ -
++- -
++-- -
++--- -
++---- -
++----- -
++------ -
++------- -
++-------- -
++--------- -
+- -
+- -
+-- --
+- +
+-+ -
+-+- -
+-+-- -
+-+--- -
+-+---- -
+-+----- -
+-+------ -
+-+------- -
+-+-------- -
+-+--------- -
+-+---------- -
+-+----------- -
+-+------------ -
+-+------------- -
+-+-------------- -
+- -
+-- -
+- -
++ -
+- -
+-- +-
+- -
+-- -
+--- -
+---- -
+----- -
+-- ------
+- -
+-- -
+--- -
+- -
+-- -
+---- ---
+------- -
+-------- -
+--------- -
+---------- -
+----------- -
+------------ -
+------------- -
+- -
+-------------- --
+---------------- -
+----------------- -
+------------------ -
+------------------- -
++ -
+- -
+- -
+-- -
+--- -
+---- -
+----- -
+------ -
+-- -------
++ -
++- -
++-- -
++--- -
+- -
+- -
+-- -
+--- -
+---- -
+----- -
+------ -
+------- -
+-------- -
+--------- -
+---------- -
+----------- -
+------------ -
+- -
+-- -
+------------- ---
++ -
++- -
++-- -
++--- -
++---- -
++----- -
++------ -
+- -
++ -
++- -
++-- -
++--- -
+-- +----
+- -
++---- --
+- -
+-- -
+--- -
+---- -
+----- -
+------ -
+------- -
+-------- -
+--------- -
+---------- -
+----------- -
+------------ -
+------------- -
+-------------- +
+- -
+-- -
+--- -
+---- -
+----- -
+------ -
+------- -
+-------- -
+--------- -
+---------- -
+----------- -
+------------ -
+------------- -
+-------------- -
+- -
++ -
++- -
+-- +--
+--------------- --+--
+- -
+-- -
+--- -
+---- -
+----- -
+------ -
+------- -
+-------- -
+--------- -
++ -
++- -
++-- -
++--- -
++---- -
++----- -
++------ -
++------- -
++-------- -
++--------- -
++---------- -
++----------- -
++------------ -
++------------- -
++ -
++- -
++-- -
++--- -
++---- -
++----- -
++------ -
++------- -
++-------- -
++--------- -
++---------- -
++----------- -
++------------ -
++------------- -
++-------------- -
+- -
+- +
+-+ -
+-+- -
+- -
+-- -
+-+-- ---
+-+----- -
+-+------ -
+-+------- -
+-+-------- -
+-+--------- -
+-+---------- -
+-+----------- -
+-+------------ -
+-+------------- -
+-+-------------- -
+-+--------------- -
+-+---------------- -
+-+----------------- -
+-+------------------ -
+-+------------------- -
+- -
+) |
+int |
+int> |
+_e valType
+and as
+_SC ALAR
+in teger
+= Tru)
+
+
+_return ed
+
+_match 
+
+assi gn
+ati vely
+_` numpy.
+_h ard
+_position s
+al so
+ra and
+(l )
+
+(obj ect
+_eval _type
+_PANDAS _UDF
+e )
+)
+
+_"""A dd
+_"""Add s
+_option (s)
+_files :
+
+_DOUBLE`` ).
+
+_' python
+/t est
+(for mat
+s( **
+_[ path
+_pr im
+_prim iti
+_primiti ves
+_primitives As
+_primitivesAs Stinng
+_pre fers
+_prefers Decimal
+_allow Com
+_allowCom ment
+_allowUnquoted FieldNames
+_allow Single
+_allowSingle Qu
+_allowSingleQu ot
+_allowSingleQuot es
+_allow Num
+_allowNum eric
+_allowNumeric Lead
+_allowNumericLead ing
+_allowNumericLeading Z
+_allowNumericLeadingZ e
+_allowNumericLeadingZe ro
+_allow B
+_allowB ack
+_allowBack slash
+_allowBackslash Esc
+_allowBackslashEsc aping
+_allowBackslashEscaping Any
+_allowBackslashEscapingAny Char
+_allowBackslashEscapingAnyChar ac
+_allowUnquoted Cont
+_allowUnquotedCont rol
+_allowUnquotedControl Char
+_drop Field
+_dropField If
+_dropFieldIf All
+_dropFieldIfAll Null
+_<ht tp://
+_String s
+- point
+_quot es
+_lead ing
+_``columnNameOfCorruptRecord ``
+_dateFormat :
+_format s
+
+_``java.time.format.DateTimeFermatt er
+_``java.time.format.DateTimeFermatter ``.
+_``yyyy- -d
+_``yyyy--d -
+_``yyyy--d- .
+.
+
+_timestampFormat :
+_``java.time.format.DateTimeFermatt .
+
+_``java.time.format.DateTimeFermatt.
+ ``.
+_``java.time.format.DateTimeFermatt.
+``. 
+
+_``yyyy- dddd
+_``yyyy-dddd 'T
+_``yyyy-dddd'T '
+_``yyyy-dddd'T' H
+_``yyyy-dddd'T'H H:mm
+_``yyyy-dddd'T'HH:mm .S
+_``yyyy-dddd'T'HH:mm.S .
+_``yyyy-dddd'T'HH:mm.S. SS
+_``yyyy-dddd'T'HH:mm.S.SS ``
+_``yyyy-dddd'T'HH:mm.S.SS`` .
+.
+
+e ed
+_encoding :
+_cover s
+_``\\r ``,
+_``\\r \\
+_``\\r\\ ```
+_`` en
+_while 
+
+= allow
+_dateFormat =date
+_dateFormat=date F
+_dateFormat=dateF or
+_timestampFormat =
+_timestampFormat= time
+_timestampFormat=time stamp
+_timestampFormat=timestamp Fo
+_timestampFormat=timestampFo ma
+= dr
+_overr ide
+_lineSep =None):
+
+_lineSep=lin e)
+
+_lineSep=line)
+ p)
+
+_nan Value
+_positive Inf
+_negative Inf
+_max Ch
+_maxCh ars
+_maxChars Per
+_maxCharsPer Column
+_max M
+_maxM alformed
+_maxMalformed Log
+_maxMalformedLog Per
+_maxMalformedLogPer Partitonn
+=onn e,
+
+_en forceSchema
+_en ti
+_enti re
+_already 
+
+_head ers
+_ac count
+_whitespace s
+_skipp ed.
+= or
+=or nor
+=ornor e
+= na
+.or c
+_table ,
+_J D
+_JD BC
+_jpro p
+(c ,
+_`` append
+_``append ``:
+_`` overwrite
+_``overwrite ``:
+_`` ignore
+_``ignore ``:
+_``error ``
+_``error ifexist
+_``errorifexist s``
+_case ):
+sion on
+_aw s
+vi ce
+I d,
+id ates
+port er
+me n
+_( m
+up t
+_b l
+X X
+Im pl
+_S upport
+] ')
+
+[0 ]
+
+
+_LIB SVM
+(n n
+_SparseVector ):
+
+_len( v
+_temp file
+.col lect
+[ 0,
+_par sed
+_:py:class:`pysarrk .ml.
+_:py:class:`pysarrk.ml. alllg.
+Dense Vector
+_line ar
+S G
+_h igher
+_I s
+_(wh ich
+o ff
+_self._java_matrix_wrapper .call("
+_compute Q
+_squ are
+Index ed
+_Matrix En
+_sub -
+_Matrices .d
+_Matrices.d ense
+_Matrices.dense (3,
+_4 .0,
+_trans posed
+trans pose
+_[1 .,
+=' F
+_other. ndim
+_dense1 .squared
+_dense1.squared _d
+_dense1.squared_d istance
+_np.ndarray ):
+
+( 4,
+sel f
+_values. size
+_np.ndarray )
+_data ;
+_k 1
+_k 2
+_dtype=dt )
+e)
+
+_/ /
+s. size
+_ne are
+_neare st
+_output oll
+_sc._gateway.jvm. avva.anng
+. pro
+- sub
+-sub mit
+_h ome
+_sc ri
+_scri pt
+_kwarg s)
+
+_its elf
+r t,
+_Per form
+_I P
+. ge
+.0 .
+r _
+(m odule
+_h om
+_self. _image
+_nChannel s
+_array .shape
+
+= all
+_r atio
+_py list
+_length ,
+_1 234
+_profil er
+_self.profil er
+_stat s.
+l able
+L ong
+_`` start
+_`` end
+_:class:`pand a
+_:class:`panda s.
+).co lect)
+
+
+
+_[{ '
+.t able
+(at ta,
+av ro
+o ot
+.S park
+_ array
+(* args,
+M in
+S H
+SH O
+en sure
+_getattr (self,
+_log ic
+A T
+(temp dir
+.t xt
+_self ,
+
+a- hdf
+_record Length
+_rdd s
+_acc um
+_accum _param
+c umulator
+T P
+_supp ress
+ou p
+I D
+_trans action
+_f _
+year= 201
+_dot NET
+re ce
+rece ed
+ing ``,
+olll ow
+un iform
+_num Col
+Vector R(s(sc,
+Se ssion
+na )
+
+.n ames
+k w
+_one 
+
+_Series ,
+_to .
+
+ait Termination
+_sub sequent
+.a w
+_pro gress
+_spark.read Stream
+_sdf. is
+_sdf.is Stream
+_sdf.isStream ing
+
+_sdf .schema
+trrea m
+partitonn _id,
+A D
+E F
+IG HE
+IGHE ST
+IGHEST _PROTOCOL
+_protocol =
+ack ward
+_6 :
+
+_dynam ic
+qual name
+h y
+_reg ist
+_ab c
+' :
+
+
+p atch
+_cache ,
+(st ate
+_TypeError(" Could
+_param ):
+
+_resol ve
+_new Uid
+_ )
+)
+
+s( 
+
+('t est
+('test ')
+(t est
+(test )
+(test) =4
+java StringLength
+_checkpoint Path
+_active Python
+_activePython Context
+_jd stream
+_t ensor
+_v ars
+_tf .train
+que e
+_'b ias
+_json _file
+mb edding
+py torch
+ayer N
+ayerN orm
+_Param s:
+
+_containing :
+
+_config .json
+_config.json `
+_PRETRAIN ED_MODEL_ARCHIVE_
+_PRETRAIN ED
+_CON F
+_CONF IG
+_M AP
+_cached _path
+arch ive
+_cache_dir =c
+_cache_dir=c chhe
+_cache_dir=cchhe _)
+
+_cache_dir=cchhe_)
+ r)
+
+_resolved _config_file
+".format (
+
+_local _metadata
+_module .
+_key s)
+
+error _msg
+_index ,
+_enumerate (ex
+_tokenizer.tokeniamexx am
+_Mod ifies
+_` tokens
+_[CLS ],
+( tokens
+_` type
+_f ine
+_input_type_id s.apennd
+_tokens.append(" [SEP
+_tokens.append("[SEP ])
+
+
+_ Zero
+_text _a
+_is _whitespace
+_token s)
+as _id
+_is_ impossible
+_version_2_with_negative :
+
+_example .is
+_example.is _im
+_example.is_im po
+_example.is_impo ssi
+_example.is_impossi bl
+_example.is_impossibl :
+
+
+_to_orig _map
+_doc_span .start
+o _s
+sp an
+(to ken
+_token ized
+apan ese
+ou ght
+_n _best
+_n_best _size
+r esult
+ed ic
+edic onon
+_collection s.OrderedDict
+_nbest _json
+_pre l
+_prel im
+_prelim _
+_prelim_ pred
+_prelim_pred ion
+_prelim_predion i
+_end _index
+_feature .token
+best Prediction
+_best _non_
+_best_non_ null
+example .
+un ctu
+unctu ation
+ipp ing
+_str ip
+_tok _s
+_tok_s _to
+_tok_s_to _ns
+sue es
+o ice
+_[" [SEP]
+_model .__class__._amame__,
+' .format
+.con caten
+.concaten ate
+s _embed.weight
+Ad am
+_exp _avg
+li p
+om ent
+_bias _correction
+_output .ap
+_output.ap ndd
+F )
+(f )
+_token ]
+[: c
+[:c ap
+[:cap _length
+[:cap_length ]
+_dtype=np.int64 )
+
+_with _cont
+s[ i,
+_c are
+(self. c
+current _chunk
+_n _sample
+_torch .cat
+_self. _compute
+_self._compute _logit
+_self._compute_logit (h
+_self._compute_logit(h idden
+_self.out _proj
+_F .log_softmax
+s[i ],
+_weight _i
+_bias _i
+_i idx
+cl uster
+_c utoff
+_cutoff _values
+_: m
+_:m ath
+_:math :`
+ad aptive
+rit .out
+.dec _attn
+_" ff
+_"ff /
+_b. pos
+_b.pos _f
+_b.pos_f f.
+_tf _weight
+_classname .find('
+_self.init_weight (m
+_new _mem
+_last _hidden
+_lib freqs.
+re q
+(f req
+_ _offset
+_is _period
+_unique :
+
+__is _multiple
+__is_multiple (d
+__is_multiple(d elta,
+__maybe _add
+__maybe_add _count
+__maybe_add_count ('
+__ONE _M
+_f h
+_# 1
+_MultiIndex 
+
+
+([ ['
+'] ],
+
+_1] ],
+
+_copy =False)
+
+_** attr
+_`self `
+_Series .
+_dtype='int64 ')
+
+_2019] ],
+
+_'year '])
+
+_level =
+_left ,
+_verify_in tegrity
+_freq =None
+_self [
+_rec on
+_object s.
+
+
+_Chang ed
+e qual
+(l val
+if ference
+_result _name
+_dtype='int64 ')
+
+
+_get _indexer
+_limit =
+_key arr
+_non- unique
+_-1 
+
+
+_MultiIndex ):
+
+_'left ',
+_else :
+_new _lev
+all ():
+
+! 
+
+num eric
+(msg .foratt(
+_ND Frame
+(values )
+
+.values _fro_o
+.values_fro_o object
+.as of
+-3 1
+ge titem
+_tz =
+' }
+
+_` values
+.is in
+_'right ',
+_int 
+
+_axis 
+
+__make _comparison
+__make_comparison _op
+__make_comparison_op (opeatorr
+_op str
+_" {
+_np. datetime64
+__make_arithmetic_op (op
+__make_arithmetic_op(op s.
+ou err
+_Group er
+In ter
+g pr
+_is _categorical
+_ axis
+_ ax
+_f oo
+/d ummy
+/dummy .p
+/dummy.p k
+_ _f
+_values _to_mask
+line ar',
+_y values
+_m id
+_NaN s
+.copy ()
+
+
+_interpolate .
+_array_like 
+
+_y i
+_dtype =None):
+
+_np.putmask (result,
+_NaN 
+
+ll ing
+_Group By
+_boolean 
+
+_'a uto
+_'pyarrow ',
+_b inner
+_g r
+_group s,
+_to _long
+-s uffix
+s uffix
+IZ E
+_3. 2
+
+_cumcount _array
+_np. repeat
+_needs _values
+_needs _mask
+_df.groupby('A ').
+_ _group_selection
+__group_selection _con
+__group_selection_con text
+__group_selection_context (self):
+
+( axis
+_groupby _function('
+_00: 0
+_00: 03
+_df.groupby(' a
+_df.groupby('a ').
+_df.groupby('a'). res
+_df.groupby('a').res ample(
+_df.groupby('a').resample( '
+3 ',,
+_result _isinndex
+_g .nth
+ng roup
+_sh if
+p eriod
+_timedelta (1)
+
+_dates .
+
+_holiday _attes
+start _date
+_freq =
+_register _option
+_' {
+_Option Error
+_cur sor
+r key
+_== =
+= =
+= =
+== =
+== ===
+===== =
+====== =
+======= =
+======== =
+========= =
+========== =
+=========== =
+============ =
+============= =
+============== =
+=============== =
+================ =
+================= =
+================== =
+=================== =
+==================== =
+===================== =
+====================== =
+======================= =
+======================== =
+========================= =
+========================== =
+_< Pandas
+_<Pandas Array>
+
+_is _nested
+_is_nested _list_like
+_is _dict_like
+_pd.date_range(start ='1/1/',,,
+_freq='D ')
+
+
+_'2017 -1
+='201 7
+s iness
+_slic ed
+_lib window
+_libwindow .
+_check _minp
+_c func
+_(196 1,
+_(196 2,
+_A X
+_AX IS
+_axes ,
+_or ient
+_{' items',
+_' items
+_Panel 
+
+_plan e
+_(p anel
+_axis ='
+_``values ``
+_issubclass (v
+_issubclass(v type,
+_model _save
+e ',
+=False :
+
+
+_ │
+s om
+en ame
+g 
+
+_os.path.is dir
+_face _recognition
+_ file
+_image ,
+_known _face_location
+.sq rt
+b ')
+_is ,
+unk nown
+_A LL
+_encoding s
+od d
+ac e
+_clo sest
+_I mage
+UTF -8
+_lib rary
+_pl ain
+(c s
+[1] ),
+_axis =1
+_' R
+(f ile
+_accur ate
+_"c nn
+U DA
+_t o
+c s
+. y
+() ]
+: 2
+Data Type
+_instead 
+
+tin y
+_support s
+i nt
+( Strelt
+S t
+)
+ r
+_from _dd
+_from_dd l
+__parse_datatype _js
+__parse_datatype_js _s_sining
+_sc._jvm.org.apache.sarrk .sql
+_" field
+(s )
+
+_3 2
+_L ong
+_""" Inerr
+_' __
+( ob
+_Dec imal
+_t ype
+_obj :
+
+% s)
+__infer _schema
+_names =None):
+
+_zip (names
+_zip(names ,
+_any (
+. element
+(data Type
+_dataType .field
+_v ,
+_IntegerType ()
+( onn
+_StructType ().add
+_new _
+_name )
+
+
+_obj ))
+
+
+_U ser
+has attr
+__ ')
+_verify_acceptable_types (obj)
+
+_- 2
+.name ,
+(v )
+
+_B inary
+_Arrow :
+(f ield.
+_nullable =field
+_nullable=field .n
+_nullable=field.n )
+
+_nullable=field.n)
+ la
+_nullable=field.n)
+la bl
+_nullable=field.n)
+labl e)
+
+_from_arr o_t
+_float 64
+_l stt
+.t ype
+he em
+_timezone ):
+
+_aw are
+.ap i
+__get _local
+_timestamp s,
+_ArrayType( Timestamp
+_ArrayType(Timestamp Type())
+_ArrayType(TimestampType()) ?
+
+(s .dt
+_z one
+_is_datetime64 _dtype
+_d ue
+New _Y
+New_Y or
+_201 5-11-01
+for e,
+_datetime .datetime
+( 201
+_1 1,
+_3 0
+(t z
+s= False
+iz ze
+( N
+lo o
+_proper ly
+_N a
+I te
+_cl ass,
+(self. _
+_on 
+
+L in
+_E valuates
+_dataset :
+
+_isinstance(data set,
+_Gener al
+.get ("
+o m
+_n ):
+
+(n ))
+Values (self,
+Com bin
+_self. _spill
+_self. _next
+_self._get _spill_dir
+_os.path .ex
+_os.path.ex ist
+_stream s
+_str (i
+_os.path.join (path,
+(p ,
+_< <
+(osatath .inin
+_memory ,
+_limit ,
+_0 )
+
+
+(i at
+to ol
+tool s.
+key =k
+_open (path,
+_consum e
+p thh
+_d elet
+_heap q
+I T
+att en
+.key s()
+_item s,
+S ort
+_signal .
+IG H
+_S IG
+F L
+_lat ter
+_s low
+.flush ()
+
+_port able_hash
+i ally
+_1 ))
+_P Y
+56 7
+_ ^
+(i )
+
+_sys. max
+_len(x )
+
+[ -1]
+) [
+_re .
+I C
+L Y
+torage vev
+toragevev el
+_RDD 's
+_y et
+_java StorageLevel
+_un persist
+ent ,
+_` b
+_checkpoint ed
+c ',
+_preservesPartitiining )
+.fl at
+( map
+(iterator )
+
+_rdd .map
+u )
+)
+
+_stacklevel =2)
+
+_3 ]).
+_size 
+
+_gener ator
+_guarante ed
+.count ()
+_rdd 1
+s[ -1
+_random.rindint( 0,
+b ,
+St D
+StD ev
+collect ()
+
+_RDD .
+_3 ])
+
+._j rdd_des
+_res erialize
+_perform s
+_intern ally
+ll ll
+(n ot
+_sc.parallelize(tmp ).sort
+(k v
+_const ant
+_min (
+By (self,
+_self. key
+_one ,
+_method .
+
+._jr d
+group ByKey
+_std out
+P i
+_Ap pl
+x )
+
+_list( _
+_list(_ loa
+_list(_loa _ffro
+_list(_loa_ffro _ss
+_list(_loa_ffro_ss ocket
+_list(_loa_ffro_ssocket (_i
+_list(_loa_ffro_ssocket(_i k_
+_list(_loa_ffro_ssocket(_ik_ info,
+_R ed
+_multi -
+_y 
+
+_- 1,
+_rdd.tree Reduce
+_value .
+
+
+_x [1]
+Val ue,
+_zeroValue ,
+_partitonn s,
+_all oc
+_s om
+_val s,
+_comb Op
+_rdd.tree Aggregate
+_rdd.treeAggregate (0,
+(i er
+_partially A
+_partiallyA ggreg
+_partiallyAggreg ated
+_5 .0,
+Co unter
+( left
+. mer
+). reduce
+_even ly
+_sp aced
+_must 
+
+_6 ])
+
+_is nan
+te red
+_raise 
+
+
+(st ep
+_1 )
+
+
+itt em
+_default dict
+_num ):
+
+_es timate
+_needed 
+
+_6 ])
+ke e
+item s)
+_actu ally
+_50 %
+U p
+.r unJob
+s[ :
+API Hadoop
+RDD [
+(K ,
+_conf :
+To Java
+_specified .
+_SparkContext 
+
+ed RDD
+_me ch
+_mech an
+_mechan ism
+_Py rol
+lect t
+uto B
+_batchSize )
+
+_tempFile .close()
+
+_'' .join
+
+ 
+
+= h
+_b ypass
+_keyed ._jrdd
+_before 
+
+L oc
+(n )
+_n ,
+_mergeValue ,
+) .collect())
+
+_serializer )
+
+.group ByKey
+Val ess
+_re tain
+_" y
+l at
+_fraction s,
+s ())
+_(" c
+_("c ",
+_ func
+_5 ],
+_po ssibly
+(1 0,
+_j rdd_deserializer
+_et c.
+_order ing
+(it ,
+] ):
+
+O M
+_O nce
+_key ):
+
+_Java RDD
+_pot entially
+Java D
+F loat
+.con f
+S D
+23 37
+tr r
+F )
+
+_2.4 .0
+
+_` cols
+s.to List
+__create_column_from _li
+__create_column_from_li erall
+ti vely
+. "
+
+_self._j c
+_[Row(age= 5,
+_position al
+met adata
+_argument .
+
+
+=5 )]
+
+( getattr
+_" as
+(' age
+2 '),
+.c ast
+_Data Type):
+
+_:func:` pyspark.sql
+_:func:`pyspark.sql .f
+_:func:`pyspark.sql.f unonion
+_expression .
+
+
+CA SE
+condition ,
+)
+t o
+_j model
+f it
+_tre ated
+_data )
+
+ter m
+_word ,
+s ine
+(w ord
+_load (cls,
+.f att
+_W ord
+_maxBin s=
+_Label s
+_categoricalFeareresInfo :
+
+_ar ity
+_k -1}.
+
+_calculation .
+
+_maxDepth :
+
+_node ,
+_nodes ).
+
+_maxBin s:
+
+_node .
+
+_3 2)
+
+_Min imum
+_split .
+
+_usage :
+
+
+_pyspark.mllib .tree
+_{} )
+
+_print( model
+bu g
+_< B
+_<B L
+_<BL AN
+_<BLAN K
+_<BLANK LINE
+_<BLANKLINE >
+
+_[0 .0]
+_model.predict (rdd
+_model.predict(rdd ).collec
+_model.predict(rdd).collec )
+)
+
+_cls. _train
+_cls._train (data,
+_maxDep th,
+_pyspark.mllib. inn
+_pyspark.mllib.inn al
+(sc .par
+(sc.par al
+(sc.paral ell
+(sc.paralell ize
+sp ar
+_d da
+(S parse
+Vecorr (2,
+_[0 .0,
+_time .
+
+_{} ,
+([ 2
+[ 3
